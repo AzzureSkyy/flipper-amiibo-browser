@@ -1,0 +1,253 @@
+#include <furi.h>
+#include <gui/gui.h>
+#include <gui/view_dispatcher.h>
+#include <gui/modules/submenu.h>
+#include <gui/modules/widget.h>
+#include <storage/storage.h>
+#include <notification/notification_messages.h>
+#include <nfc/nfc.h>
+#include <nfc/nfc_device.h>
+#include <nfc/nfc_listener.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define ROOT_PATH       EXT_PATH("nfc/Amiibo/By_Game")
+#define MAX_ENTRIES     400
+#define MAX_NAME_LEN    64
+
+typedef enum {
+	ViewMenu,
+	ViewEmulate,
+} AppView;
+
+typedef struct {
+	char name[MAX_NAME_LEN];
+	bool is_dir;
+} Entry;
+
+typedef struct {
+	Gui* gui;
+	ViewDispatcher* dispatcher;
+	Submenu* submenu;
+	Widget* widget;
+	Storage* storage;
+	NotificationApp* notifications;
+
+	FuriString* path;
+	Entry* entries;
+	size_t entry_count;
+	uint32_t selected;
+
+	Nfc* nfc;
+	NfcDevice* device;
+	NfcListener* listener;
+	AppView current;
+} App;
+
+static void build_menu(App* app);
+
+static int entry_cmp(const void* a, const void* b) {
+	const Entry* ea = a;
+	const Entry* eb = b;
+	if(ea->is_dir != eb->is_dir) return ea->is_dir ? -1 : 1;
+	return strcasecmp(ea->name, eb->name);
+}
+
+static void display_name(const char* src, char* dst, size_t len, bool strip_ext) {
+	strlcpy(dst, src, len);
+	if(strip_ext) {
+		char* dot = strrchr(dst, '.');
+		if(dot) *dot = '\0';
+	}
+	for(char* p = dst; *p; p++) {
+		if(*p == '_') *p = ' ';
+	}
+}
+
+static void load_entries(App* app) {
+	app->entry_count = 0;
+	File* dir = storage_file_alloc(app->storage);
+	if(storage_dir_open(dir, furi_string_get_cstr(app->path))) {
+		FileInfo info;
+		char name[MAX_NAME_LEN];
+		while(app->entry_count < MAX_ENTRIES &&
+			  storage_dir_read(dir, &info, name, sizeof(name))) {
+			if(name[0] == '.') continue;
+			bool is_dir = file_info_is_dir(&info);
+			if(!is_dir) {
+				size_t n = strlen(name);
+				if(n < 5 || strcasecmp(name + n - 4, ".nfc") != 0) continue;
+			}
+			strlcpy(app->entries[app->entry_count].name, name, MAX_NAME_LEN);
+			app->entries[app->entry_count].is_dir = is_dir;
+			app->entry_count++;
+		}
+	}
+	storage_dir_close(dir);
+	storage_file_free(dir);
+	for(size_t i = 1; i < app->entry_count; i++) {
+		Entry tmp = app->entries[i];
+		size_t j = i;
+		while(j > 0 && entry_cmp(&app->entries[j - 1], &tmp) > 0) {
+			app->entries[j] = app->entries[j - 1];
+			j--;
+		}
+		app->entries[j] = tmp;
+	}
+}
+
+static void stop_emulation(App* app) {
+	if(app->listener) {
+		nfc_listener_stop(app->listener);
+		nfc_listener_free(app->listener);
+		app->listener = NULL;
+	}
+	notification_message(app->notifications, &sequence_blink_stop);
+}
+
+static NfcCommand listener_callback(NfcGenericEvent event, void* context) {
+	UNUSED(event);
+	UNUSED(context);
+	return NfcCommandContinue;
+}
+
+static void start_emulation(App* app, const Entry* entry) {
+	FuriString* file = furi_string_alloc_printf(
+		"%s/%s", furi_string_get_cstr(app->path), entry->name);
+	char label[MAX_NAME_LEN];
+	display_name(entry->name, label, sizeof(label), true);
+
+	widget_reset(app->widget);
+	bool ok = nfc_device_load(app->device, furi_string_get_cstr(file)) &&
+			  nfc_device_get_protocol(app->device) == NfcProtocolMfUltralight;
+
+	if(ok) {
+		app->listener = nfc_listener_alloc(
+			app->nfc,
+			NfcProtocolMfUltralight,
+			nfc_device_get_data(app->device, NfcProtocolMfUltralight));
+		nfc_listener_start(app->listener, listener_callback, app);
+		notification_message(app->notifications, &sequence_blink_start_magenta);
+
+		widget_add_string_element(
+			app->widget, 64, 6, AlignCenter, AlignTop, FontPrimary, "Emulating amiibo");
+		widget_add_string_multiline_element(
+			app->widget, 64, 26, AlignCenter, AlignTop, FontSecondary, label);
+		widget_add_string_element(
+			app->widget, 64, 62, AlignCenter, AlignBottom, FontSecondary, "Hold to reader | Back=stop");
+	} else {
+		widget_add_string_element(
+			app->widget, 64, 14, AlignCenter, AlignTop, FontPrimary, "Load failed");
+		widget_add_string_multiline_element(
+			app->widget, 64, 32, AlignCenter, AlignTop, FontSecondary, label);
+	}
+
+	furi_string_free(file);
+	app->current = ViewEmulate;
+	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
+}
+
+static void submenu_callback(void* context, uint32_t index) {
+	App* app = context;
+	if(index >= app->entry_count) return;
+	app->selected = index;
+	Entry* entry = &app->entries[index];
+	if(entry->is_dir) {
+		furi_string_cat_printf(app->path, "/%s", entry->name);
+		app->selected = 0;
+		build_menu(app);
+	} else {
+		start_emulation(app, entry);
+	}
+}
+
+static void build_menu(App* app) {
+	load_entries(app);
+	submenu_reset(app->submenu);
+
+	const char* p = furi_string_get_cstr(app->path);
+	const char* slash = strrchr(p, '/');
+	char header[MAX_NAME_LEN];
+	if(furi_string_cmp_str(app->path, ROOT_PATH) == 0) {
+		strlcpy(header, "Amiibo - Games", sizeof(header));
+	} else {
+		display_name(slash ? slash + 1 : p, header, sizeof(header), false);
+	}
+	submenu_set_header(app->submenu, header);
+
+	if(app->entry_count == 0) {
+		submenu_add_item(app->submenu, "(empty / missing folder)", UINT32_MAX, NULL, NULL);
+	}
+	for(size_t i = 0; i < app->entry_count; i++) {
+		char label[MAX_NAME_LEN + 4];
+		char name[MAX_NAME_LEN];
+		display_name(app->entries[i].name, name, sizeof(name), !app->entries[i].is_dir);
+		snprintf(label, sizeof(label), app->entries[i].is_dir ? "[%s]" : "%s", name);
+		submenu_add_item(app->submenu, label, i, submenu_callback, app);
+	}
+	submenu_set_selected_item(app->submenu, app->selected);
+
+	app->current = ViewMenu;
+	view_dispatcher_switch_to_view(app->dispatcher, ViewMenu);
+}
+
+static bool navigation_callback(void* context) {
+	App* app = context;
+	if(app->current == ViewEmulate) {
+		stop_emulation(app);
+		build_menu(app);
+		return true;
+	}
+	if(furi_string_cmp_str(app->path, ROOT_PATH) == 0) {
+		view_dispatcher_stop(app->dispatcher);
+		return true;
+	}
+	size_t pos = furi_string_search_rchar(app->path, '/');
+	if(pos != FURI_STRING_FAILURE) furi_string_left(app->path, pos);
+	app->selected = 0;
+	build_menu(app);
+	return true;
+}
+
+int32_t amiibo_browser_app(void* p) {
+	UNUSED(p);
+	App* app = malloc(sizeof(App));
+	memset(app, 0, sizeof(App));
+
+	app->entries = malloc(sizeof(Entry) * MAX_ENTRIES);
+	app->path = furi_string_alloc_set(ROOT_PATH);
+	app->gui = furi_record_open(RECORD_GUI);
+	app->storage = furi_record_open(RECORD_STORAGE);
+	app->notifications = furi_record_open(RECORD_NOTIFICATION);
+	app->nfc = nfc_alloc();
+	app->device = nfc_device_alloc();
+
+	app->dispatcher = view_dispatcher_alloc();
+	view_dispatcher_set_event_callback_context(app->dispatcher, app);
+	view_dispatcher_set_navigation_event_callback(app->dispatcher, navigation_callback);
+
+	app->submenu = submenu_alloc();
+	app->widget = widget_alloc();
+	view_dispatcher_add_view(app->dispatcher, ViewMenu, submenu_get_view(app->submenu));
+	view_dispatcher_add_view(app->dispatcher, ViewEmulate, widget_get_view(app->widget));
+	view_dispatcher_attach_to_gui(app->dispatcher, app->gui, ViewDispatcherTypeFullscreen);
+
+	build_menu(app);
+	view_dispatcher_run(app->dispatcher);
+
+	stop_emulation(app);
+	view_dispatcher_remove_view(app->dispatcher, ViewMenu);
+	view_dispatcher_remove_view(app->dispatcher, ViewEmulate);
+	submenu_free(app->submenu);
+	widget_free(app->widget);
+	view_dispatcher_free(app->dispatcher);
+	nfc_device_free(app->device);
+	nfc_free(app->nfc);
+	furi_record_close(RECORD_NOTIFICATION);
+	furi_record_close(RECORD_STORAGE);
+	furi_record_close(RECORD_GUI);
+	furi_string_free(app->path);
+	free(app->entries);
+	free(app);
+	return 0;
+}

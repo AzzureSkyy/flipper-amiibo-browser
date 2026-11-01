@@ -1,0 +1,1174 @@
+﻿# Amiibo Library (1101 files)
+
+## Animal_Crossing (616)
+- Amiibo_Cards/Amiibo_Festival / AC_AF1_Stitches  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Amiibo_Festival/AC_AF1_Stitches.nfc`
+- Amiibo_Cards/Amiibo_Festival / AC_AF2_Rosie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Amiibo_Festival/AC_AF2_Rosie.nfc`
+- Amiibo_Cards/Amiibo_Festival / AC_AF3_Goldie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Amiibo_Festival/AC_AF3_Goldie.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS1_Rilla  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS1_Rilla.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS2_Marty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS2_Marty.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS3_Etoile  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS3_Etoile.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS4_Chai  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS4_Chai.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS5_Chelsea  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS5_Chelsea.nfc`
+- Amiibo_Cards/Sanrio_Cards / AC_XS6_Toby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Sanrio_Cards/AC_XS6_Toby.nfc`
+- Amiibo_Cards/Series_1 / AC_001_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_001_Isabelle.nfc`
+- Amiibo_Cards/Series_1 / AC_002_Tom_Nook  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_002_Tom_Nook.nfc`
+- Amiibo_Cards/Series_1 / AC_003_DJ_KK  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_003_DJ_KK.nfc`
+- Amiibo_Cards/Series_1 / AC_004_Sable  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_004_Sable.nfc`
+- Amiibo_Cards/Series_1 / AC_005_Kappn  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_005_Kappn.nfc`
+- Amiibo_Cards/Series_1 / AC_006_Resetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_006_Resetti.nfc`
+- Amiibo_Cards/Series_1 / AC_007_Joan  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_007_Joan.nfc`
+- Amiibo_Cards/Series_1 / AC_008_Timmy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_008_Timmy.nfc`
+- Amiibo_Cards/Series_1 / AC_009_Digby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_009_Digby.nfc`
+- Amiibo_Cards/Series_1 / AC_010_Pascal  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_010_Pascal.nfc`
+- Amiibo_Cards/Series_1 / AC_011_Harriet  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_011_Harriet.nfc`
+- Amiibo_Cards/Series_1 / AC_012_Redd  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_012_Redd.nfc`
+- Amiibo_Cards/Series_1 / AC_013_Saharah  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_013_Saharah.nfc`
+- Amiibo_Cards/Series_1 / AC_014_Luna  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_014_Luna.nfc`
+- Amiibo_Cards/Series_1 / AC_015_Tortimer  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_015_Tortimer.nfc`
+- Amiibo_Cards/Series_1 / AC_016_Lyle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_016_Lyle.nfc`
+- Amiibo_Cards/Series_1 / AC_017_Lottie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_017_Lottie.nfc`
+- Amiibo_Cards/Series_1 / AC_018_Bob  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_018_Bob.nfc`
+- Amiibo_Cards/Series_1 / AC_019_Fauna  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_019_Fauna.nfc`
+- Amiibo_Cards/Series_1 / AC_020_Curt  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_020_Curt.nfc`
+- Amiibo_Cards/Series_1 / AC_021_Portia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_021_Portia.nfc`
+- Amiibo_Cards/Series_1 / AC_022_Leonardo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_022_Leonardo.nfc`
+- Amiibo_Cards/Series_1 / AC_023_Cheri  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_023_Cheri.nfc`
+- Amiibo_Cards/Series_1 / AC_024_Kyle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_024_Kyle.nfc`
+- Amiibo_Cards/Series_1 / AC_025_Al  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_025_Al.nfc`
+- Amiibo_Cards/Series_1 / AC_026_Renee  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_026_Renee.nfc`
+- Amiibo_Cards/Series_1 / AC_027_Lopez  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_027_Lopez.nfc`
+- Amiibo_Cards/Series_1 / AC_028_Jambette  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_028_Jambette.nfc`
+- Amiibo_Cards/Series_1 / AC_029_Rasher  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_029_Rasher.nfc`
+- Amiibo_Cards/Series_1 / AC_030_Tiffany  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_030_Tiffany.nfc`
+- Amiibo_Cards/Series_1 / AC_031_Sheldon  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_031_Sheldon.nfc`
+- Amiibo_Cards/Series_1 / AC_032_Bluebear  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_032_Bluebear.nfc`
+- Amiibo_Cards/Series_1 / AC_033_Bill  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_033_Bill.nfc`
+- Amiibo_Cards/Series_1 / AC_034_Kiki  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_034_Kiki.nfc`
+- Amiibo_Cards/Series_1 / AC_035_Deli  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_035_Deli.nfc`
+- Amiibo_Cards/Series_1 / AC_036_Alli  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_036_Alli.nfc`
+- Amiibo_Cards/Series_1 / AC_037_Kabuki  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_037_Kabuki.nfc`
+- Amiibo_Cards/Series_1 / AC_038_Patty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_038_Patty.nfc`
+- Amiibo_Cards/Series_1 / AC_039_Jitters  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_039_Jitters.nfc`
+- Amiibo_Cards/Series_1 / AC_040_Gigi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_040_Gigi.nfc`
+- Amiibo_Cards/Series_1 / AC_041_Quillson  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_041_Quillson.nfc`
+- Amiibo_Cards/Series_1 / AC_042_Marcie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_042_Marcie.nfc`
+- Amiibo_Cards/Series_1 / AC_043_Puck  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_043_Puck.nfc`
+- Amiibo_Cards/Series_1 / AC_044_Shari  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_044_Shari.nfc`
+- Amiibo_Cards/Series_1 / AC_045_Octavian  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_045_Octavian.nfc`
+- Amiibo_Cards/Series_1 / AC_046_Winnie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_046_Winnie.nfc`
+- Amiibo_Cards/Series_1 / AC_047_Knox  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_047_Knox.nfc`
+- Amiibo_Cards/Series_1 / AC_048_Sterling  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_048_Sterling.nfc`
+- Amiibo_Cards/Series_1 / AC_049_Bonbon  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_049_Bonbon.nfc`
+- Amiibo_Cards/Series_1 / AC_050_Punchy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_050_Punchy.nfc`
+- Amiibo_Cards/Series_1 / AC_051_Opal  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_051_Opal.nfc`
+- Amiibo_Cards/Series_1 / AC_052_Poppy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_052_Poppy.nfc`
+- Amiibo_Cards/Series_1 / AC_053_Limberg  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_053_Limberg.nfc`
+- Amiibo_Cards/Series_1 / AC_054_Deena  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_054_Deena.nfc`
+- Amiibo_Cards/Series_1 / AC_055_Snake  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_055_Snake.nfc`
+- Amiibo_Cards/Series_1 / AC_056_Bangle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_056_Bangle.nfc`
+- Amiibo_Cards/Series_1 / AC_057_Phil  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_057_Phil.nfc`
+- Amiibo_Cards/Series_1 / AC_058_Monique  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_058_Monique.nfc`
+- Amiibo_Cards/Series_1 / AC_059_Nate  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_059_Nate.nfc`
+- Amiibo_Cards/Series_1 / AC_060_Samson  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_060_Samson.nfc`
+- Amiibo_Cards/Series_1 / AC_061_Tutu  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_061_Tutu.nfc`
+- Amiibo_Cards/Series_1 / AC_062_TBone  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_062_TBone.nfc`
+- Amiibo_Cards/Series_1 / AC_063_Mint  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_063_Mint.nfc`
+- Amiibo_Cards/Series_1 / AC_064_Pudge  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_064_Pudge.nfc`
+- Amiibo_Cards/Series_1 / AC_065_Midge  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_065_Midge.nfc`
+- Amiibo_Cards/Series_1 / AC_066_Gruff  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_066_Gruff.nfc`
+- Amiibo_Cards/Series_1 / AC_067_Flurry  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_067_Flurry.nfc`
+- Amiibo_Cards/Series_1 / AC_068_Clyde  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_068_Clyde.nfc`
+- Amiibo_Cards/Series_1 / AC_069_Bella  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_069_Bella.nfc`
+- Amiibo_Cards/Series_1 / AC_070_Biff  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_070_Biff.nfc`
+- Amiibo_Cards/Series_1 / AC_071_Yuka  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_071_Yuka.nfc`
+- Amiibo_Cards/Series_1 / AC_072_Lionel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_072_Lionel.nfc`
+- Amiibo_Cards/Series_1 / AC_073_Flo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_073_Flo.nfc`
+- Amiibo_Cards/Series_1 / AC_074_Cobb  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_074_Cobb.nfc`
+- Amiibo_Cards/Series_1 / AC_075_Amelia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_075_Amelia.nfc`
+- Amiibo_Cards/Series_1 / AC_076_Jeramiah  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_076_Jeramiah.nfc`
+- Amiibo_Cards/Series_1 / AC_077_Cherry  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_077_Cherry.nfc`
+- Amiibo_Cards/Series_1 / AC_078_Roscoe  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_078_Roscoe.nfc`
+- Amiibo_Cards/Series_1 / AC_079_Truffles  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_079_Truffles.nfc`
+- Amiibo_Cards/Series_1 / AC_080_Eugene  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_080_Eugene.nfc`
+- Amiibo_Cards/Series_1 / AC_081_Eunice  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_081_Eunice.nfc`
+- Amiibo_Cards/Series_1 / AC_082_Goose  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_082_Goose.nfc`
+- Amiibo_Cards/Series_1 / AC_083_Annalisa  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_083_Annalisa.nfc`
+- Amiibo_Cards/Series_1 / AC_084_Benjamin  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_084_Benjamin.nfc`
+- Amiibo_Cards/Series_1 / AC_085_Pancetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_085_Pancetti.nfc`
+- Amiibo_Cards/Series_1 / AC_086_Chief  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_086_Chief.nfc`
+- Amiibo_Cards/Series_1 / AC_087_Bunnie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_087_Bunnie.nfc`
+- Amiibo_Cards/Series_1 / AC_088_Clay  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_088_Clay.nfc`
+- Amiibo_Cards/Series_1 / AC_089_Diana  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_089_Diana.nfc`
+- Amiibo_Cards/Series_1 / AC_090_Axel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_090_Axel.nfc`
+- Amiibo_Cards/Series_1 / AC_091_Muffy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_091_Muffy.nfc`
+- Amiibo_Cards/Series_1 / AC_092_Henry  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_092_Henry.nfc`
+- Amiibo_Cards/Series_1 / AC_093_Bertha  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_093_Bertha.nfc`
+- Amiibo_Cards/Series_1 / AC_094_Cyrano  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_094_Cyrano.nfc`
+- Amiibo_Cards/Series_1 / AC_095_Peanut  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_095_Peanut.nfc`
+- Amiibo_Cards/Series_1 / AC_096_Cole  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_096_Cole.nfc`
+- Amiibo_Cards/Series_1 / AC_097_Willow  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_097_Willow.nfc`
+- Amiibo_Cards/Series_1 / AC_098_Roald  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_098_Roald.nfc`
+- Amiibo_Cards/Series_1 / AC_099_Molly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_099_Molly.nfc`
+- Amiibo_Cards/Series_1 / AC_100_Walker  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_1/AC_100_Walker.nfc`
+- Amiibo_Cards/Series_2 / AC_101_KK_Slider  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_101_KK_Slider.nfc`
+- Amiibo_Cards/Series_2 / AC_102_Reese  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_102_Reese.nfc`
+- Amiibo_Cards/Series_2 / AC_103_Kicks  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_103_Kicks.nfc`
+- Amiibo_Cards/Series_2 / AC_104_Labelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_104_Labelle.nfc`
+- Amiibo_Cards/Series_2 / AC_105_Copper  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_105_Copper.nfc`
+- Amiibo_Cards/Series_2 / AC_106_Booker  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_106_Booker.nfc`
+- Amiibo_Cards/Series_2 / AC_107_Katie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_107_Katie.nfc`
+- Amiibo_Cards/Series_2 / AC_108_Tommy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_108_Tommy.nfc`
+- Amiibo_Cards/Series_2 / AC_109_Porter  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_109_Porter.nfc`
+- Amiibo_Cards/Series_2 / AC_110_Leila  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_110_Leila.nfc`
+- Amiibo_Cards/Series_2 / AC_111_Shrunk  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_111_Shrunk.nfc`
+- Amiibo_Cards/Series_2 / AC_112_Don_Resetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_112_Don_Resetti.nfc`
+- Amiibo_Cards/Series_2 / AC_113_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_113_Isabelle.nfc`
+- Amiibo_Cards/Series_2 / AC_114_Blanca  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_114_Blanca.nfc`
+- Amiibo_Cards/Series_2 / AC_115_Nat  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_115_Nat.nfc`
+- Amiibo_Cards/Series_2 / AC_116_Chip  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_116_Chip.nfc`
+- Amiibo_Cards/Series_2 / AC_117_Jack  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_117_Jack.nfc`
+- Amiibo_Cards/Series_2 / AC_118_Poncho  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_118_Poncho.nfc`
+- Amiibo_Cards/Series_2 / AC_119_Felicity  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_119_Felicity.nfc`
+- Amiibo_Cards/Series_2 / AC_120_Ozzie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_120_Ozzie.nfc`
+- Amiibo_Cards/Series_2 / AC_121_Tia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_121_Tia.nfc`
+- Amiibo_Cards/Series_2 / AC_122_Lucha  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_122_Lucha.nfc`
+- Amiibo_Cards/Series_2 / AC_123_Fuchsia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_123_Fuchsia.nfc`
+- Amiibo_Cards/Series_2 / AC_124_Harry  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_124_Harry.nfc`
+- Amiibo_Cards/Series_2 / AC_125_Gwen  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_125_Gwen.nfc`
+- Amiibo_Cards/Series_2 / AC_126_Coach  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_126_Coach.nfc`
+- Amiibo_Cards/Series_2 / AC_127_Kitt  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_127_Kitt.nfc`
+- Amiibo_Cards/Series_2 / AC_128_Tom  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_128_Tom.nfc`
+- Amiibo_Cards/Series_2 / AC_129_Tipper  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_129_Tipper.nfc`
+- Amiibo_Cards/Series_2 / AC_130_Prince  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_130_Prince.nfc`
+- Amiibo_Cards/Series_2 / AC_131_Pate  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_131_Pate.nfc`
+- Amiibo_Cards/Series_2 / AC_132_Vladimir  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_132_Vladimir.nfc`
+- Amiibo_Cards/Series_2 / AC_133_Savannah  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_133_Savannah.nfc`
+- Amiibo_Cards/Series_2 / AC_134_Kidd  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_134_Kidd.nfc`
+- Amiibo_Cards/Series_2 / AC_135_Phoebe  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_135_Phoebe.nfc`
+- Amiibo_Cards/Series_2 / AC_136_Egbert  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_136_Egbert.nfc`
+- Amiibo_Cards/Series_2 / AC_137_Cookie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_137_Cookie.nfc`
+- Amiibo_Cards/Series_2 / AC_138_Sly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_138_Sly.nfc`
+- Amiibo_Cards/Series_2 / AC_139_Blaire  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_139_Blaire.nfc`
+- Amiibo_Cards/Series_2 / AC_140_Avery  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_140_Avery.nfc`
+- Amiibo_Cards/Series_2 / AC_141_Nana  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_141_Nana.nfc`
+- Amiibo_Cards/Series_2 / AC_142_Peck  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_142_Peck.nfc`
+- Amiibo_Cards/Series_2 / AC_143_Olivia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_143_Olivia.nfc`
+- Amiibo_Cards/Series_2 / AC_144_Cesar  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_144_Cesar.nfc`
+- Amiibo_Cards/Series_2 / AC_145_Carmen  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_145_Carmen.nfc`
+- Amiibo_Cards/Series_2 / AC_146_Rodney  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_146_Rodney.nfc`
+- Amiibo_Cards/Series_2 / AC_147_Scoot  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_147_Scoot.nfc`
+- Amiibo_Cards/Series_2 / AC_148_Whitney  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_148_Whitney.nfc`
+- Amiibo_Cards/Series_2 / AC_149_Broccolo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_149_Broccolo.nfc`
+- Amiibo_Cards/Series_2 / AC_150_Coco  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_150_Coco.nfc`
+- Amiibo_Cards/Series_2 / AC_151_Groucho  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_151_Groucho.nfc`
+- Amiibo_Cards/Series_2 / AC_152_Wendy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_152_Wendy.nfc`
+- Amiibo_Cards/Series_2 / AC_153_Alfonso  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_153_Alfonso.nfc`
+- Amiibo_Cards/Series_2 / AC_154_Rhonda  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_154_Rhonda.nfc`
+- Amiibo_Cards/Series_2 / AC_155_Butch  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_155_Butch.nfc`
+- Amiibo_Cards/Series_2 / AC_156_Gabi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_156_Gabi.nfc`
+- Amiibo_Cards/Series_2 / AC_157_Moose  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_157_Moose.nfc`
+- Amiibo_Cards/Series_2 / AC_158_Timbra  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_158_Timbra.nfc`
+- Amiibo_Cards/Series_2 / AC_159_Zell  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_159_Zell.nfc`
+- Amiibo_Cards/Series_2 / AC_160_Pekoe  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_160_Pekoe.nfc`
+- Amiibo_Cards/Series_2 / AC_161_Teddy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_161_Teddy.nfc`
+- Amiibo_Cards/Series_2 / AC_162_Mathilda  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_162_Mathilda.nfc`
+- Amiibo_Cards/Series_2 / AC_163_Ed  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_163_Ed.nfc`
+- Amiibo_Cards/Series_2 / AC_164_Bianca  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_164_Bianca.nfc`
+- Amiibo_Cards/Series_2 / AC_165_Filbert  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_165_Filbert.nfc`
+- Amiibo_Cards/Series_2 / AC_166_Kitty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_166_Kitty.nfc`
+- Amiibo_Cards/Series_2 / AC_167_Beau  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_167_Beau.nfc`
+- Amiibo_Cards/Series_2 / AC_168_Nan  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_168_Nan.nfc`
+- Amiibo_Cards/Series_2 / AC_169_Bud  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_169_Bud.nfc`
+- Amiibo_Cards/Series_2 / AC_170_Ruby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_170_Ruby.nfc`
+- Amiibo_Cards/Series_2 / AC_171_Benedict  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_171_Benedict.nfc`
+- Amiibo_Cards/Series_2 / AC_172_Agnes  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_172_Agnes.nfc`
+- Amiibo_Cards/Series_2 / AC_173_Julian  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_173_Julian.nfc`
+- Amiibo_Cards/Series_2 / AC_174_Bettina  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_174_Bettina.nfc`
+- Amiibo_Cards/Series_2 / AC_175_Jay  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_175_Jay.nfc`
+- Amiibo_Cards/Series_2 / AC_176_Sprinkle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_176_Sprinkle.nfc`
+- Amiibo_Cards/Series_2 / AC_177_Flip  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_177_Flip.nfc`
+- Amiibo_Cards/Series_2 / AC_178_Hugh  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_178_Hugh.nfc`
+- Amiibo_Cards/Series_2 / AC_179_Hopper  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_179_Hopper.nfc`
+- Amiibo_Cards/Series_2 / AC_180_Pecan  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_180_Pecan.nfc`
+- Amiibo_Cards/Series_2 / AC_181_Drake  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_181_Drake.nfc`
+- Amiibo_Cards/Series_2 / AC_182_Alice  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_182_Alice.nfc`
+- Amiibo_Cards/Series_2 / AC_183_Camofrog  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_183_Camofrog.nfc`
+- Amiibo_Cards/Series_2 / AC_184_Anicotti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_184_Anicotti.nfc`
+- Amiibo_Cards/Series_2 / AC_185_Chops  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_185_Chops.nfc`
+- Amiibo_Cards/Series_2 / AC_186_Charlise  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_186_Charlise.nfc`
+- Amiibo_Cards/Series_2 / AC_187_Vic  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_187_Vic.nfc`
+- Amiibo_Cards/Series_2 / AC_188_Ankha  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_188_Ankha.nfc`
+- Amiibo_Cards/Series_2 / AC_189_Drift  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_189_Drift.nfc`
+- Amiibo_Cards/Series_2 / AC_190_Vesta  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_190_Vesta.nfc`
+- Amiibo_Cards/Series_2 / AC_191_Marcel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_191_Marcel.nfc`
+- Amiibo_Cards/Series_2 / AC_192_Pango  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_192_Pango.nfc`
+- Amiibo_Cards/Series_2 / AC_193_Keaton  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_193_Keaton.nfc`
+- Amiibo_Cards/Series_2 / AC_194_Gladys  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_194_Gladys.nfc`
+- Amiibo_Cards/Series_2 / AC_195_Hamphrey  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_195_Hamphrey.nfc`
+- Amiibo_Cards/Series_2 / AC_196_Freya  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_196_Freya.nfc`
+- Amiibo_Cards/Series_2 / AC_197_Kid_Cat  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_197_Kid_Cat.nfc`
+- Amiibo_Cards/Series_2 / AC_198_Agent_S  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_198_Agent_S.nfc`
+- Amiibo_Cards/Series_2 / AC_199_Big_Top  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_199_Big_Top.nfc`
+- Amiibo_Cards/Series_2 / AC_200_Rocket  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_2/AC_200_Rocket.nfc`
+- Amiibo_Cards/Series_3 / AC_201_Rover  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_201_Rover.nfc`
+- Amiibo_Cards/Series_3 / AC_202_Blathers  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_202_Blathers.nfc`
+- Amiibo_Cards/Series_3 / AC_203_Tom_Nook  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_203_Tom_Nook.nfc`
+- Amiibo_Cards/Series_3 / AC_204_Pelly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_204_Pelly.nfc`
+- Amiibo_Cards/Series_3 / AC_205_Phyllis  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_205_Phyllis.nfc`
+- Amiibo_Cards/Series_3 / AC_206_Pete  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_206_Pete.nfc`
+- Amiibo_Cards/Series_3 / AC_207_Mabel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_207_Mabel.nfc`
+- Amiibo_Cards/Series_3 / AC_208_Leif  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_208_Leif.nfc`
+- Amiibo_Cards/Series_3 / AC_209_Wendell  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_209_Wendell.nfc`
+- Amiibo_Cards/Series_3 / AC_210_Cyrus  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_210_Cyrus.nfc`
+- Amiibo_Cards/Series_3 / AC_211_Grams  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_211_Grams.nfc`
+- Amiibo_Cards/Series_3 / AC_212_Timmy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_212_Timmy.nfc`
+- Amiibo_Cards/Series_3 / AC_213_Digby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_213_Digby.nfc`
+- Amiibo_Cards/Series_3 / AC_214_Don_Resetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_214_Don_Resetti.nfc`
+- Amiibo_Cards/Series_3 / AC_215_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_215_Isabelle.nfc`
+- Amiibo_Cards/Series_3 / AC_216_Franklin  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_216_Franklin.nfc`
+- Amiibo_Cards/Series_3 / AC_217_Jingle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_217_Jingle.nfc`
+- Amiibo_Cards/Series_3 / AC_218_Lily  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_218_Lily.nfc`
+- Amiibo_Cards/Series_3 / AC_219_Anchovy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_219_Anchovy.nfc`
+- Amiibo_Cards/Series_3 / AC_220_Tabby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_220_Tabby.nfc`
+- Amiibo_Cards/Series_3 / AC_221_Kody  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_221_Kody.nfc`
+- Amiibo_Cards/Series_3 / AC_222_Miranda  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_222_Miranda.nfc`
+- Amiibo_Cards/Series_3 / AC_223_Del  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_223_Del.nfc`
+- Amiibo_Cards/Series_3 / AC_224_Paula  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_224_Paula.nfc`
+- Amiibo_Cards/Series_3 / AC_225_Ken  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_225_Ken.nfc`
+- Amiibo_Cards/Series_3 / AC_226_Mitzi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_226_Mitzi.nfc`
+- Amiibo_Cards/Series_3 / AC_227_Rodeo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_227_Rodeo.nfc`
+- Amiibo_Cards/Series_3 / AC_228_Bubbles  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_228_Bubbles.nfc`
+- Amiibo_Cards/Series_3 / AC_229_Cousteau  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_229_Cousteau.nfc`
+- Amiibo_Cards/Series_3 / AC_230_Velma  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_230_Velma.nfc`
+- Amiibo_Cards/Series_3 / AC_231_Elvis  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_231_Elvis.nfc`
+- Amiibo_Cards/Series_3 / AC_232_Canberra  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_232_Canberra.nfc`
+- Amiibo_Cards/Series_3 / AC_233_Colton  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_233_Colton.nfc`
+- Amiibo_Cards/Series_3 / AC_234_Marina  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_234_Marina.nfc`
+- Amiibo_Cards/Series_3 / AC_235_SporkCrackle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_235_SporkCrackle.nfc`
+- Amiibo_Cards/Series_3 / AC_236_Freckles  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_236_Freckles.nfc`
+- Amiibo_Cards/Series_3 / AC_237_Bam  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_237_Bam.nfc`
+- Amiibo_Cards/Series_3 / AC_238_Friga  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_238_Friga.nfc`
+- Amiibo_Cards/Series_3 / AC_239_Ricky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_239_Ricky.nfc`
+- Amiibo_Cards/Series_3 / AC_240_Deirdre  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_240_Deirdre.nfc`
+- Amiibo_Cards/Series_3 / AC_241_Hans  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_241_Hans.nfc`
+- Amiibo_Cards/Series_3 / AC_242_Chevre  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_242_Chevre.nfc`
+- Amiibo_Cards/Series_3 / AC_243_Drago  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_243_Drago.nfc`
+- Amiibo_Cards/Series_3 / AC_244_Tangy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_244_Tangy.nfc`
+- Amiibo_Cards/Series_3 / AC_245_Mac  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_245_Mac.nfc`
+- Amiibo_Cards/Series_3 / AC_246_Eloise  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_246_Eloise.nfc`
+- Amiibo_Cards/Series_3 / AC_247_Wart_Jr  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_247_Wart_Jr.nfc`
+- Amiibo_Cards/Series_3 / AC_248_Hazel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_248_Hazel.nfc`
+- Amiibo_Cards/Series_3 / AC_249_Beardo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_249_Beardo.nfc`
+- Amiibo_Cards/Series_3 / AC_250_Ava  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_250_Ava.nfc`
+- Amiibo_Cards/Series_3 / AC_251_Chester  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_251_Chester.nfc`
+- Amiibo_Cards/Series_3 / AC_252_Merry  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_252_Merry.nfc`
+- Amiibo_Cards/Series_3 / AC_253_Genji  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_253_Genji.nfc`
+- Amiibo_Cards/Series_3 / AC_254_Greta  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_254_Greta.nfc`
+- Amiibo_Cards/Series_3 / AC_255_Wolfgang  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_255_Wolfgang.nfc`
+- Amiibo_Cards/Series_3 / AC_256_Diva  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_256_Diva.nfc`
+- Amiibo_Cards/Series_3 / AC_257_Klaus  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_257_Klaus.nfc`
+- Amiibo_Cards/Series_3 / AC_258_Daisy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_258_Daisy.nfc`
+- Amiibo_Cards/Series_3 / AC_259_Stinky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_259_Stinky.nfc`
+- Amiibo_Cards/Series_3 / AC_260_Tammi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_260_Tammi.nfc`
+- Amiibo_Cards/Series_3 / AC_261_Tucker  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_261_Tucker.nfc`
+- Amiibo_Cards/Series_3 / AC_262_Blanche  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_262_Blanche.nfc`
+- Amiibo_Cards/Series_3 / AC_263_Gaston  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_263_Gaston.nfc`
+- Amiibo_Cards/Series_3 / AC_264_Marshal  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_264_Marshal.nfc`
+- Amiibo_Cards/Series_3 / AC_265_Gala  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_265_Gala.nfc`
+- Amiibo_Cards/Series_3 / AC_266_Joey  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_266_Joey.nfc`
+- Amiibo_Cards/Series_3 / AC_267_Pippy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_267_Pippy.nfc`
+- Amiibo_Cards/Series_3 / AC_268_Buck  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_268_Buck.nfc`
+- Amiibo_Cards/Series_3 / AC_269_Bree  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_269_Bree.nfc`
+- Amiibo_Cards/Series_3 / AC_270_Rooney  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_270_Rooney.nfc`
+- Amiibo_Cards/Series_3 / AC_271_Curlos  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_271_Curlos.nfc`
+- Amiibo_Cards/Series_3 / AC_272_Skye  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_272_Skye.nfc`
+- Amiibo_Cards/Series_3 / AC_273_Moe  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_273_Moe.nfc`
+- Amiibo_Cards/Series_3 / AC_274_Flora  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_274_Flora.nfc`
+- Amiibo_Cards/Series_3 / AC_275_Hamlet  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_275_Hamlet.nfc`
+- Amiibo_Cards/Series_3 / AC_276_Astrid  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_276_Astrid.nfc`
+- Amiibo_Cards/Series_3 / AC_277_Monty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_277_Monty.nfc`
+- Amiibo_Cards/Series_3 / AC_278_Dora  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_278_Dora.nfc`
+- Amiibo_Cards/Series_3 / AC_279_Biskit  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_279_Biskit.nfc`
+- Amiibo_Cards/Series_3 / AC_280_Victoria  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_280_Victoria.nfc`
+- Amiibo_Cards/Series_3 / AC_281_Lyman  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_281_Lyman.nfc`
+- Amiibo_Cards/Series_3 / AC_282_Violet  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_282_Violet.nfc`
+- Amiibo_Cards/Series_3 / AC_283_Frank  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_283_Frank.nfc`
+- Amiibo_Cards/Series_3 / AC_284_Chadder  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_284_Chadder.nfc`
+- Amiibo_Cards/Series_3 / AC_285_Merengue  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_285_Merengue.nfc`
+- Amiibo_Cards/Series_3 / AC_286_Cube  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_286_Cube.nfc`
+- Amiibo_Cards/Series_3 / AC_287_Claudia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_287_Claudia.nfc`
+- Amiibo_Cards/Series_3 / AC_288_Curly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_288_Curly.nfc`
+- Amiibo_Cards/Series_3 / AC_289_Boomer  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_289_Boomer.nfc`
+- Amiibo_Cards/Series_3 / AC_290_Caroline  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_290_Caroline.nfc`
+- Amiibo_Cards/Series_3 / AC_291_Sparro  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_291_Sparro.nfc`
+- Amiibo_Cards/Series_3 / AC_292_Baabara  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_292_Baabara.nfc`
+- Amiibo_Cards/Series_3 / AC_293_Rolf  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_293_Rolf.nfc`
+- Amiibo_Cards/Series_3 / AC_294_Maple  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_294_Maple.nfc`
+- Amiibo_Cards/Series_3 / AC_295_Antonio  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_295_Antonio.nfc`
+- Amiibo_Cards/Series_3 / AC_296_Soleil  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_296_Soleil.nfc`
+- Amiibo_Cards/Series_3 / AC_297_Apollo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_297_Apollo.nfc`
+- Amiibo_Cards/Series_3 / AC_298_Derwin  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_298_Derwin.nfc`
+- Amiibo_Cards/Series_3 / AC_299_Francine  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_299_Francine.nfc`
+- Amiibo_Cards/Series_3 / AC_300_Chrissy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_3/AC_300_Chrissy.nfc`
+- Amiibo_Cards/Series_4 / AC_301_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_301_Isabelle.nfc`
+- Amiibo_Cards/Series_4 / AC_302_Brewster  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_302_Brewster.nfc`
+- Amiibo_Cards/Series_4 / AC_303_Katrina  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_303_Katrina.nfc`
+- Amiibo_Cards/Series_4 / AC_304_Phineas  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_304_Phineas.nfc`
+- Amiibo_Cards/Series_4 / AC_305_Celeste  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_305_Celeste.nfc`
+- Amiibo_Cards/Series_4 / AC_306_Tommy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_306_Tommy.nfc`
+- Amiibo_Cards/Series_4 / AC_307_Gracie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_307_Gracie.nfc`
+- Amiibo_Cards/Series_4 / AC_308_Leilani  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_308_Leilani.nfc`
+- Amiibo_Cards/Series_4 / AC_309_Resetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_309_Resetti.nfc`
+- Amiibo_Cards/Series_4 / AC_310_Timmy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_310_Timmy.nfc`
+- Amiibo_Cards/Series_4 / AC_311_Lottie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_311_Lottie.nfc`
+- Amiibo_Cards/Series_4 / AC_312_Shrunk  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_312_Shrunk.nfc`
+- Amiibo_Cards/Series_4 / AC_313_Pave  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_313_Pave.nfc`
+- Amiibo_Cards/Series_4 / AC_314_Gulliver  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_314_Gulliver.nfc`
+- Amiibo_Cards/Series_4 / AC_315_Redd  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_315_Redd.nfc`
+- Amiibo_Cards/Series_4 / AC_316_Zipper  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_316_Zipper.nfc`
+- Amiibo_Cards/Series_4 / AC_317_Goldie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_317_Goldie.nfc`
+- Amiibo_Cards/Series_4 / AC_318_Stitches  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_318_Stitches.nfc`
+- Amiibo_Cards/Series_4 / AC_319_Pinky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_319_Pinky.nfc`
+- Amiibo_Cards/Series_4 / AC_320_Mott  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_320_Mott.nfc`
+- Amiibo_Cards/Series_4 / AC_321_Mallary  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_321_Mallary.nfc`
+- Amiibo_Cards/Series_4 / AC_322_Rocco  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_322_Rocco.nfc`
+- Amiibo_Cards/Series_4 / AC_323_Katt  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_323_Katt.nfc`
+- Amiibo_Cards/Series_4 / AC_324_Graham  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_324_Graham.nfc`
+- Amiibo_Cards/Series_4 / AC_325_Peaches  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_325_Peaches.nfc`
+- Amiibo_Cards/Series_4 / AC_326_Dizzy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_326_Dizzy.nfc`
+- Amiibo_Cards/Series_4 / AC_327_Penelope  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_327_Penelope.nfc`
+- Amiibo_Cards/Series_4 / AC_328_Boone  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_328_Boone.nfc`
+- Amiibo_Cards/Series_4 / AC_329_Broffina  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_329_Broffina.nfc`
+- Amiibo_Cards/Series_4 / AC_330_Croque  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_330_Croque.nfc`
+- Amiibo_Cards/Series_4 / AC_331_Pashmina  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_331_Pashmina.nfc`
+- Amiibo_Cards/Series_4 / AC_332_Shep  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_332_Shep.nfc`
+- Amiibo_Cards/Series_4 / AC_333_Lolly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_333_Lolly.nfc`
+- Amiibo_Cards/Series_4 / AC_334_Erik  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_334_Erik.nfc`
+- Amiibo_Cards/Series_4 / AC_335_Dotty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_335_Dotty.nfc`
+- Amiibo_Cards/Series_4 / AC_336_Pierce  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_336_Pierce.nfc`
+- Amiibo_Cards/Series_4 / AC_337_Queenie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_337_Queenie.nfc`
+- Amiibo_Cards/Series_4 / AC_338_Fang  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_338_Fang.nfc`
+- Amiibo_Cards/Series_4 / AC_339_Fritta  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_339_Fritta.nfc`
+- Amiibo_Cards/Series_4 / AC_340_Tex  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_340_Tex.nfc`
+- Amiibo_Cards/Series_4 / AC_341_Melba  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_341_Melba.nfc`
+- Amiibo_Cards/Series_4 / AC_342_Bones  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_342_Bones.nfc`
+- Amiibo_Cards/Series_4 / AC_343_Anabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_343_Anabelle.nfc`
+- Amiibo_Cards/Series_4 / AC_344_Rudy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_344_Rudy.nfc`
+- Amiibo_Cards/Series_4 / AC_345_Naomi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_345_Naomi.nfc`
+- Amiibo_Cards/Series_4 / AC_346_Peewee  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_346_Peewee.nfc`
+- Amiibo_Cards/Series_4 / AC_347_Tammy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_347_Tammy.nfc`
+- Amiibo_Cards/Series_4 / AC_348_Olaf  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_348_Olaf.nfc`
+- Amiibo_Cards/Series_4 / AC_349_Lucy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_349_Lucy.nfc`
+- Amiibo_Cards/Series_4 / AC_350_Elmer  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_350_Elmer.nfc`
+- Amiibo_Cards/Series_4 / AC_351_Puddles  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_351_Puddles.nfc`
+- Amiibo_Cards/Series_4 / AC_352_Rory  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_352_Rory.nfc`
+- Amiibo_Cards/Series_4 / AC_353_Elise  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_353_Elise.nfc`
+- Amiibo_Cards/Series_4 / AC_354_Walt  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_354_Walt.nfc`
+- Amiibo_Cards/Series_4 / AC_355_Mira  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_355_Mira.nfc`
+- Amiibo_Cards/Series_4 / AC_356_Pietro  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_356_Pietro.nfc`
+- Amiibo_Cards/Series_4 / AC_357_Aurora  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_357_Aurora.nfc`
+- Amiibo_Cards/Series_4 / AC_358_Papi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_358_Papi.nfc`
+- Amiibo_Cards/Series_4 / AC_359_Apple  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_359_Apple.nfc`
+- Amiibo_Cards/Series_4 / AC_360_Rod  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_360_Rod.nfc`
+- Amiibo_Cards/Series_4 / AC_361_Purrl  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_361_Purrl.nfc`
+- Amiibo_Cards/Series_4 / AC_362_Static  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_362_Static.nfc`
+- Amiibo_Cards/Series_4 / AC_363_Celia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_363_Celia.nfc`
+- Amiibo_Cards/Series_4 / AC_364_Zucker  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_364_Zucker.nfc`
+- Amiibo_Cards/Series_4 / AC_365_Peggy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_365_Peggy.nfc`
+- Amiibo_Cards/Series_4 / AC_366_Ribbot  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_366_Ribbot.nfc`
+- Amiibo_Cards/Series_4 / AC_367_Annalise  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_367_Annalise.nfc`
+- Amiibo_Cards/Series_4 / AC_368_Chow  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_368_Chow.nfc`
+- Amiibo_Cards/Series_4 / AC_369_Sylvia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_369_Sylvia.nfc`
+- Amiibo_Cards/Series_4 / AC_370_Jacques  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_370_Jacques.nfc`
+- Amiibo_Cards/Series_4 / AC_371_Sally  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_371_Sally.nfc`
+- Amiibo_Cards/Series_4 / AC_372_Doc  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_372_Doc.nfc`
+- Amiibo_Cards/Series_4 / AC_373_Pompom  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_373_Pompom.nfc`
+- Amiibo_Cards/Series_4 / AC_374_Tank  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_374_Tank.nfc`
+- Amiibo_Cards/Series_4 / AC_375_Becky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_375_Becky.nfc`
+- Amiibo_Cards/Series_4 / AC_376_Rizzo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_376_Rizzo.nfc`
+- Amiibo_Cards/Series_4 / AC_377_Sydney  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_377_Sydney.nfc`
+- Amiibo_Cards/Series_4 / AC_378_Barold  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_378_Barold.nfc`
+- Amiibo_Cards/Series_4 / AC_379_Nibbles  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_379_Nibbles.nfc`
+- Amiibo_Cards/Series_4 / AC_380_Kevin  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_380_Kevin.nfc`
+- Amiibo_Cards/Series_4 / AC_381_Gloria  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_381_Gloria.nfc`
+- Amiibo_Cards/Series_4 / AC_382_Lobo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_382_Lobo.nfc`
+- Amiibo_Cards/Series_4 / AC_383_Hippeux  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_383_Hippeux.nfc`
+- Amiibo_Cards/Series_4 / AC_384_Margie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_384_Margie.nfc`
+- Amiibo_Cards/Series_4 / AC_385_Lucky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_385_Lucky.nfc`
+- Amiibo_Cards/Series_4 / AC_386_Rosie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_386_Rosie.nfc`
+- Amiibo_Cards/Series_4 / AC_387_Rowan  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_387_Rowan.nfc`
+- Amiibo_Cards/Series_4 / AC_388_Maelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_388_Maelle.nfc`
+- Amiibo_Cards/Series_4 / AC_389_Bruce  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_389_Bruce.nfc`
+- Amiibo_Cards/Series_4 / AC_390_O_Hare  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_390_O_Hare.nfc`
+- Amiibo_Cards/Series_4 / AC_391_Gayle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_391_Gayle.nfc`
+- Amiibo_Cards/Series_4 / AC_392_Cranston  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_392_Cranston.nfc`
+- Amiibo_Cards/Series_4 / AC_393_Frobert  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_393_Frobert.nfc`
+- Amiibo_Cards/Series_4 / AC_394_Grizzly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_394_Grizzly.nfc`
+- Amiibo_Cards/Series_4 / AC_395_Cally  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_395_Cally.nfc`
+- Amiibo_Cards/Series_4 / AC_396_Simon  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_396_Simon.nfc`
+- Amiibo_Cards/Series_4 / AC_397_Iggly  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_397_Iggly.nfc`
+- Amiibo_Cards/Series_4 / AC_398_Angus  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_398_Angus.nfc`
+- Amiibo_Cards/Series_4 / AC_399_Twiggy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_399_Twiggy.nfc`
+- Amiibo_Cards/Series_4 / AC_400_Robin  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_4/AC_400_Robin.nfc`
+- Amiibo_Cards/Series_5 / 401_Tom_Nook  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/401_Tom_Nook.nfc`
+- Amiibo_Cards/Series_5 / 402_Timmy_and_Tommy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/402_Timmy_and_Tommy.nfc`
+- Amiibo_Cards/Series_5 / 403_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/403_Isabelle.nfc`
+- Amiibo_Cards/Series_5 / 404_Orville  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/404_Orville.nfc`
+- Amiibo_Cards/Series_5 / 405_Wilbur  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/405_Wilbur.nfc`
+- Amiibo_Cards/Series_5 / 406_Blathers  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/406_Blathers.nfc`
+- Amiibo_Cards/Series_5 / 407_Celeste  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/407_Celeste.nfc`
+- Amiibo_Cards/Series_5 / 408_Mabel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/408_Mabel.nfc`
+- Amiibo_Cards/Series_5 / 409_Sable  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/409_Sable.nfc`
+- Amiibo_Cards/Series_5 / 410_Label  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/410_Label.nfc`
+- Amiibo_Cards/Series_5 / 411_KK_Slider  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/411_KK_Slider.nfc`
+- Amiibo_Cards/Series_5 / 412_CJ  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/412_CJ.nfc`
+- Amiibo_Cards/Series_5 / 413_Flick  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/413_Flick.nfc`
+- Amiibo_Cards/Series_5 / 414_Daisy_Mae  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/414_Daisy_Mae.nfc`
+- Amiibo_Cards/Series_5 / 415_Kicks  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/415_Kicks.nfc`
+- Amiibo_Cards/Series_5 / 416_Saharah  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/416_Saharah.nfc`
+- Amiibo_Cards/Series_5 / 417_Harvey  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/417_Harvey.nfc`
+- Amiibo_Cards/Series_5 / 418_Gulliver  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/418_Gulliver.nfc`
+- Amiibo_Cards/Series_5 / 419_Wisp  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/419_Wisp.nfc`
+- Amiibo_Cards/Series_5 / 420_Lottie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/420_Lottie.nfc`
+- Amiibo_Cards/Series_5 / 421_Niko  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/421_Niko.nfc`
+- Amiibo_Cards/Series_5 / 422_Wardell  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/422_Wardell.nfc`
+- Amiibo_Cards/Series_5 / 423_Tom_Nook_Coat  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/423_Tom_Nook_Coat.nfc`
+- Amiibo_Cards/Series_5 / 424_Isabelle_Sweater  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/424_Isabelle_Sweater.nfc`
+- Amiibo_Cards/Series_5 / 425_Sherb  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/425_Sherb.nfc`
+- Amiibo_Cards/Series_5 / 426_Megan  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/426_Megan.nfc`
+- Amiibo_Cards/Series_5 / 427_Dom  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/427_Dom.nfc`
+- Amiibo_Cards/Series_5 / 428_Audie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/428_Audie.nfc`
+- Amiibo_Cards/Series_5 / 429_Cyd  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/429_Cyd.nfc`
+- Amiibo_Cards/Series_5 / 430_Judy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/430_Judy.nfc`
+- Amiibo_Cards/Series_5 / 431_Raymond  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/431_Raymond.nfc`
+- Amiibo_Cards/Series_5 / 432_Reneigh  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/432_Reneigh.nfc`
+- Amiibo_Cards/Series_5 / 433_Sasha  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/433_Sasha.nfc`
+- Amiibo_Cards/Series_5 / 434_Ione  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/434_Ione.nfc`
+- Amiibo_Cards/Series_5 / 435_Tiansheng  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/435_Tiansheng.nfc`
+- Amiibo_Cards/Series_5 / 436_Shino  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/436_Shino.nfc`
+- Amiibo_Cards/Series_5 / 437_Marlo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/437_Marlo.nfc`
+- Amiibo_Cards/Series_5 / 438_Petri  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/438_Petri.nfc`
+- Amiibo_Cards/Series_5 / 439_Cephalobot  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/439_Cephalobot.nfc`
+- Amiibo_Cards/Series_5 / 440_Quinn  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/440_Quinn.nfc`
+- Amiibo_Cards/Series_5 / 441_Chabwick  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/441_Chabwick.nfc`
+- Amiibo_Cards/Series_5 / 442_Zoe  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/442_Zoe.nfc`
+- Amiibo_Cards/Series_5 / 443_Ace  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/443_Ace.nfc`
+- Amiibo_Cards/Series_5 / 444_Rio  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/444_Rio.nfc`
+- Amiibo_Cards/Series_5 / 445_Frett  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/445_Frett.nfc`
+- Amiibo_Cards/Series_5 / 446_Azalea  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/446_Azalea.nfc`
+- Amiibo_Cards/Series_5 / 447_Roswell  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/447_Roswell.nfc`
+- Amiibo_Cards/Series_5 / 448_Faith  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Series_5/448_Faith.nfc`
+- Amiibo_Cards/Special_Edition / AC_CP1_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Special_Edition/AC_CP1_Isabelle.nfc`
+- Amiibo_Cards/Special_Edition / AC_CP2_KK_Slider  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Special_Edition/AC_CP2_KK_Slider.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W01_Vivian  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W01_Vivian.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W02_Hopkins  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W02_Hopkins.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W03_June  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W03_June.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W04_Piper  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W04_Piper.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W05_Paolo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W05_Paolo.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W06_Hornsby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W06_Hornsby.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W07_Stella  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W07_Stella.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W08_Tybalt  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W08_Tybalt.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W09_Huck  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W09_Huck.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W10_Sylvana  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W10_Sylvana.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W11_Boris  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W11_Boris.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W12_Wade  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W12_Wade.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W13_Carrie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W13_Carrie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W14_Ketchup  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W14_Ketchup.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W15_Rex  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W15_Rex.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W16_Stu  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W16_Stu.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W17_Ursala  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W17_Ursala.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W18_Jacob  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W18_Jacob.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W19_Maddie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W19_Maddie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W20_Billy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W20_Billy.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W21_Boyd  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W21_Boyd.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W22_Bitty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W22_Bitty.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W23_Maggie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W23_Maggie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W24_Murphy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W24_Murphy.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W25_Plucky  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W25_Plucky.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W26_Sandy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W26_Sandy.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W27_Claude  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W27_Claude.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W28_Raddle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W28_Raddle.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W29_Julia  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W29_Julia.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W30_Louie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W30_Louie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W31_Bea  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W31_Bea.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W32_Admiral  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W32_Admiral.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W33_Ellie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W33_Ellie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W34_Boots  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W34_Boots.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W35_Weber  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W35_Weber.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W36_Candi  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W36_Candi.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W37_Leopold  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W37_Leopold.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W38_Spike  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W38_Spike.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W39_Cashmere  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W39_Cashmere.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W40_Tad  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W40_Tad.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W41_Norma  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W41_Norma.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W42_Gonzo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W42_Gonzo.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W43_Sprocket  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W43_Sprocket.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W44_Snooty  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W44_Snooty.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W45_Olive  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W45_Olive.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W46_Dobie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W46_Dobie.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W47_Buzz  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W47_Buzz.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W48_Cleo  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W48_Cleo.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W49_Ike  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W49_Ike.nfc`
+- Amiibo_Cards/Welcome_Amiibo / AC_W50_Tasha  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Cards/Welcome_Amiibo/AC_W50_Tasha.nfc`
+- Amiibo_Figures / Blathers  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Blathers.nfc`
+- Amiibo_Figures / Celeste  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Celeste.nfc`
+- Amiibo_Figures / Cyrrus  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Cyrrus.nfc`
+- Amiibo_Figures / Digby  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Digby.nfc`
+- Amiibo_Figures / Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Isabelle.nfc`
+- Amiibo_Figures / Kapp_n  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Kapp_n.nfc`
+- Amiibo_Figures / Kicks  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Kicks.nfc`
+- Amiibo_Figures / KK_Slider  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/KK_Slider.nfc`
+- Amiibo_Figures / Lottie  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Lottie.nfc`
+- Amiibo_Figures / Mabel  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Mabel.nfc`
+- Amiibo_Figures / Reese  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Reese.nfc`
+- Amiibo_Figures / Resetti  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Resetti.nfc`
+- Amiibo_Figures / Rover  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Rover.nfc`
+- Amiibo_Figures / Summertime_Isabelle  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Summertime_Isabelle.nfc`
+- Amiibo_Figures / Timmy_Tommy  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Timmy_Tommy.nfc`
+- Amiibo_Figures / Tom_Nook  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Amiibo_Figures/Tom_Nook.nfc`
+- Happy_Home_Designer_Items / HHD_Items_01  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_01.nfc`
+- Happy_Home_Designer_Items / HHD_Items_02  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_02.nfc`
+- Happy_Home_Designer_Items / HHD_Items_03  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_03.nfc`
+- Happy_Home_Designer_Items / HHD_Items_04  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_04.nfc`
+- Happy_Home_Designer_Items / HHD_Items_05  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_05.nfc`
+- Happy_Home_Designer_Items / HHD_Items_06  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_06.nfc`
+- Happy_Home_Designer_Items / HHD_Items_07  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_07.nfc`
+- Happy_Home_Designer_Items / HHD_Items_08  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_08.nfc`
+- Happy_Home_Designer_Items / HHD_Items_09  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_09.nfc`
+- Happy_Home_Designer_Items / HHD_Items_10  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_10.nfc`
+- Happy_Home_Designer_Items / HHD_Items_11  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_11.nfc`
+- Happy_Home_Designer_Items / HHD_Items_12  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_12.nfc`
+- Happy_Home_Designer_Items / HHD_Items_13  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_13.nfc`
+- Happy_Home_Designer_Items / HHD_Items_14  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_14.nfc`
+- Happy_Home_Designer_Items / HHD_Items_15  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_15.nfc`
+- Happy_Home_Designer_Items / HHD_Items_16  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_16.nfc`
+- Happy_Home_Designer_Items / HHD_Items_17  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_17.nfc`
+- Happy_Home_Designer_Items / HHD_Items_18  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_18.nfc`
+- Happy_Home_Designer_Items / HHD_Items_19  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_19.nfc`
+- Happy_Home_Designer_Items / HHD_Items_20  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_20.nfc`
+- Happy_Home_Designer_Items / HHD_Items_21  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_21.nfc`
+- Happy_Home_Designer_Items / HHD_Items_22  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_22.nfc`
+- Happy_Home_Designer_Items / HHD_Items_23  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_23.nfc`
+- Happy_Home_Designer_Items / HHD_Items_24  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_24.nfc`
+- Happy_Home_Designer_Items / HHD_Items_25  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_25.nfc`
+- Happy_Home_Designer_Items / HHD_Items_26  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_26.nfc`
+- Happy_Home_Designer_Items / HHD_Items_27  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_27.nfc`
+- Happy_Home_Designer_Items / HHD_Items_28  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_28.nfc`
+- Happy_Home_Designer_Items / HHD_Items_29  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_29.nfc`
+- Happy_Home_Designer_Items / HHD_Items_30  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_30.nfc`
+- Happy_Home_Designer_Items / HHD_Items_31  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_31.nfc`
+- Happy_Home_Designer_Items / HHD_Items_32  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_32.nfc`
+- Happy_Home_Designer_Items / HHD_Items_33  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_33.nfc`
+- Happy_Home_Designer_Items / HHD_Items_34  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_34.nfc`
+- Happy_Home_Designer_Items / HHD_Items_35  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_35.nfc`
+- Happy_Home_Designer_Items / HHD_Items_36  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_36.nfc`
+- Happy_Home_Designer_Items / HHD_Items_37  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_37.nfc`
+- Happy_Home_Designer_Items / HHD_Items_38  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_38.nfc`
+- Happy_Home_Designer_Items / HHD_Items_39  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_39.nfc`
+- Happy_Home_Designer_Items / HHD_Items_40  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_40.nfc`
+- Happy_Home_Designer_Items / HHD_Items_41  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_41.nfc`
+- Happy_Home_Designer_Items / HHD_Items_42  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_42.nfc`
+- Happy_Home_Designer_Items / HHD_Items_43  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_43.nfc`
+- Happy_Home_Designer_Items / HHD_Items_44  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_44.nfc`
+- Happy_Home_Designer_Items / HHD_Items_45  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_45.nfc`
+- Happy_Home_Designer_Items / HHD_Items_46  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_46.nfc`
+- Happy_Home_Designer_Items / HHD_Items_47  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_47.nfc`
+- Happy_Home_Designer_Items / HHD_Items_48  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_48.nfc`
+- Happy_Home_Designer_Items / HHD_Items_49  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_49.nfc`
+- Happy_Home_Designer_Items / HHD_Items_50  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_50.nfc`
+- Happy_Home_Designer_Items / HHD_Items_51  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_51.nfc`
+- Happy_Home_Designer_Items / HHD_Items_52  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_52.nfc`
+- Happy_Home_Designer_Items / HHD_Items_53  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_53.nfc`
+- Happy_Home_Designer_Items / HHD_Items_54  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_54.nfc`
+- Happy_Home_Designer_Items / HHD_Items_55  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_55.nfc`
+- Happy_Home_Designer_Items / HHD_Items_56  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_56.nfc`
+- Happy_Home_Designer_Items / HHD_Items_57  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_57.nfc`
+- Happy_Home_Designer_Items / HHD_Items_58  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_58.nfc`
+- Happy_Home_Designer_Items / HHD_Items_59  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_59.nfc`
+- Happy_Home_Designer_Items / HHD_Items_60  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_60.nfc`
+- Happy_Home_Designer_Items / HHD_Items_61  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_61.nfc`
+- Happy_Home_Designer_Items / HHD_Items_62  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_62.nfc`
+- Happy_Home_Designer_Items / HHD_Items_63  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_63.nfc`
+- Happy_Home_Designer_Items / HHD_Items_64  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_64.nfc`
+- Happy_Home_Designer_Items / HHD_Items_65  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_65.nfc`
+- Happy_Home_Designer_Items / HHD_Items_66  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_66.nfc`
+- Happy_Home_Designer_Items / HHD_Items_67  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_67.nfc`
+- Happy_Home_Designer_Items / HHD_Items_68  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_68.nfc`
+- Happy_Home_Designer_Items / HHD_Items_69  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_69.nfc`
+- Happy_Home_Designer_Items / HHD_Items_70  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_70.nfc`
+- Happy_Home_Designer_Items / HHD_Items_71  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_71.nfc`
+- Happy_Home_Designer_Items / HHD_Items_72  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_72.nfc`
+- Happy_Home_Designer_Items / HHD_Items_73  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_73.nfc`
+- Happy_Home_Designer_Items / HHD_Items_74  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_74.nfc`
+- Happy_Home_Designer_Items / HHD_Items_75  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_75.nfc`
+- Happy_Home_Designer_Items / HHD_Items_76  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_76.nfc`
+- Happy_Home_Designer_Items / HHD_Items_77  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_77.nfc`
+- Happy_Home_Designer_Items / HHD_Items_78  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_78.nfc`
+- Happy_Home_Designer_Items / HHD_Items_79  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_79.nfc`
+- Happy_Home_Designer_Items / HHD_Items_80  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_80.nfc`
+- Happy_Home_Designer_Items / HHD_Items_81  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_81.nfc`
+- Happy_Home_Designer_Items / HHD_Items_82  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_82.nfc`
+- Happy_Home_Designer_Items / HHD_Items_83  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_83.nfc`
+- Happy_Home_Designer_Items / HHD_Items_84  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_84.nfc`
+- Happy_Home_Designer_Items / HHD_Items_85  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_85.nfc`
+- Happy_Home_Designer_Items / HHD_Items_86  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_86.nfc`
+- Happy_Home_Designer_Items / HHD_Items_87  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_87.nfc`
+- Happy_Home_Designer_Items / HHD_Items_88  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_88.nfc`
+- Happy_Home_Designer_Items / HHD_Items_89  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_89.nfc`
+- Happy_Home_Designer_Items / HHD_Items_90  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_90.nfc`
+- Happy_Home_Designer_Items / HHD_Items_91  `/ext/nfc/Amiibo/By_Game/Animal_Crossing/Happy_Home_Designer_Items/HHD_Items_91.nfc`
+
+## Box_boy_Amiibo (1)
+- Qbby  `/ext/nfc/Amiibo/By_Game/Box_boy_Amiibo/Qbby.nfc`
+
+## Chibi_Robo_Amiibo (1)
+- Chibi_Robo  `/ext/nfc/Amiibo/By_Game/Chibi_Robo_Amiibo/Chibi_Robo.nfc`
+
+## Dark_Souls_Amiibo (1)
+- Solaire_of_Astora  `/ext/nfc/Amiibo/By_Game/Dark_Souls_Amiibo/Solaire_of_Astora.nfc`
+
+## Detective_Pikachu_Amiibo (1)
+- Detective_Pikachu  `/ext/nfc/Amiibo/By_Game/Detective_Pikachu_Amiibo/Detective_Pikachu.nfc`
+
+## Diablo_Amiibo (1)
+- Loot_Goblin  `/ext/nfc/Amiibo/By_Game/Diablo_Amiibo/Loot_Goblin.nfc`
+
+## Donkey_Kong_Bananza_Amiibo (1)
+- Donkey_Kong_and_Pauline  `/ext/nfc/Amiibo/By_Game/Donkey_Kong_Bananza_Amiibo/Donkey_Kong_and_Pauline.nfc`
+
+## Fire_Emblem (4)
+- Alm  `/ext/nfc/Amiibo/By_Game/Fire_Emblem/Alm.nfc`
+- Celica  `/ext/nfc/Amiibo/By_Game/Fire_Emblem/Celica.nfc`
+- Chrom  `/ext/nfc/Amiibo/By_Game/Fire_Emblem/Chrom.nfc`
+- Tiki  `/ext/nfc/Amiibo/By_Game/Fire_Emblem/Tiki.nfc`
+
+## Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards (6)
+- JPPB_01_Pawapuro  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_01_Pawapuro.nfc`
+- JPPB_02_Ikari  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_02_Ikari.nfc`
+- JPPB_03_Yabe  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_03_Yabe.nfc`
+- JPPB_04_Hayakawa  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_04_Hayakawa.nfc`
+- JPPB_05_Ganda  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_05_Ganda.nfc`
+- JPPB_06_Daijobu  `/ext/nfc/Amiibo/By_Game/Jikkyou_Powerful_Pro_Baseball_Amiibo_Cards/JPPB_06_Daijobu.nfc`
+
+## Kellogs_Amiibo (1)
+- Delicious_Amiibo  `/ext/nfc/Amiibo/By_Game/Kellogs_Amiibo/Delicious_Amiibo.nfc`
+
+## Kirby (4)
+- King_Dedede  `/ext/nfc/Amiibo/By_Game/Kirby/King_Dedede.nfc`
+- Kirby  `/ext/nfc/Amiibo/By_Game/Kirby/Kirby.nfc`
+- Meta_Knight  `/ext/nfc/Amiibo/By_Game/Kirby/Meta_Knight.nfc`
+- Waddle_Dee  `/ext/nfc/Amiibo/By_Game/Kirby/Waddle_Dee.nfc`
+
+## Legend_of_Zelda (45)
+- 30th_Anniversary / 8_Bit_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/30th_Anniversary/8_Bit_Link.nfc`
+- 30th_Anniversary / Ocarina_Of_Time_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/30th_Anniversary/Ocarina_Of_Time_Link.nfc`
+- 30th_Anniversary / Wind_Waker_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/30th_Anniversary/Wind_Waker_Link.nfc`
+- 30th_Anniversary / Wind_Waker_Zelda  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/30th_Anniversary/Wind_Waker_Zelda.nfc`
+- Anniversary / Link_Ocarina_Of_Time  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Anniversary/Link_Ocarina_Of_Time.nfc`
+- Anniversary / Link_Wind_Waker  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Anniversary/Link_Wind_Waker.nfc`
+- Anniversary / Zelda_Wind_Waker  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Anniversary/Zelda_Wind_Waker.nfc`
+- BOTW / Bokoblin  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Bokoblin.nfc`
+- BOTW / Guardian  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Guardian.nfc`
+- BOTW / Link_Archer  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Link_Archer.nfc`
+- BOTW / Link_Rider  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Link_Rider.nfc`
+- BOTW / Zelda  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Zelda.nfc`
+- BOTW_Champions / Daruk  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_Champions/Daruk.nfc`
+- BOTW_Champions / Mipha  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_Champions/Mipha.nfc`
+- BOTW_Champions / Rivali  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_Champions/Rivali.nfc`
+- BOTW_Champions / Urbosa  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_Champions/Urbosa.nfc`
+- BOTW_from_SSB / Ganondorf  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_from_SSB/Ganondorf.nfc`
+- BOTW_from_SSB / Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_from_SSB/Link.nfc`
+- BOTW_from_SSB / Shiek  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_from_SSB/Shiek.nfc`
+- BOTW_from_SSB / Toon_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_from_SSB/Toon_Link.nfc`
+- BOTW_from_SSB / Zelda  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_from_SSB/Zelda.nfc`
+- BOTW_June / Link_Majora_s_Mask  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_June/Link_Majora_s_Mask.nfc`
+- BOTW_June / Link_Skyward_Sword  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_June/Link_Skyward_Sword.nfc`
+- BOTW_June / Link_Twilight_Princess  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW_June/Link_Twilight_Princess.nfc`
+- Breath_of_the_Wild / Revali  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Breath_of_the_Wild/Revali.nfc`
+- Link_s_Awakening / Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Link_s_Awakening/Link.nfc`
+- Link_s_Awakening / Link_Links_Awakening  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Link_s_Awakening/Link_Links_Awakening.nfc`
+- Skyward_Sword_HD / Zelda_and_Loftwing  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Skyward_Sword_HD/Zelda_and_Loftwing.nfc`
+- Skyward_Sword_HD / Zelda_and_Loftwing_Amiibo  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Skyward_Sword_HD/Zelda_and_Loftwing_Amiibo.nfc`
+- Tears_of_the_Kingdom / Link_TotK  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Link_TotK.nfc`
+- Tears_of_the_Kingdom / Minerus_Construct  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Minerus_Construct.nfc`
+- Tears_of_the_Kingdom / Riju  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Riju.nfc`
+- Tears_of_the_Kingdom / Sidon  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Sidon.nfc`
+- Tears_of_the_Kingdom / Tulin  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Tulin.nfc`
+- Tears_of_the_Kingdom / Yunobo  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Yunobo.nfc`
+- Tears_of_the_Kingdom/UNOFFICIAL / Mineru  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/UNOFFICIAL/Mineru.nfc`
+- TOTK / Ganondorf_TotK  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/TOTK/Ganondorf_TotK.nfc`
+- TOTK / Gerudo_King  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/TOTK/Gerudo_King.nfc`
+- TOTK / Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/TOTK/Link.nfc`
+- TOTK / Princess_Zelda  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/TOTK/Princess_Zelda.nfc`
+- TOTK / Zelda_TotK  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/TOTK/Zelda_TotK.nfc`
+- Twilight_Princess / MOD_MAX_LEVEL_Wolf_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Twilight_Princess/MOD_MAX_LEVEL_Wolf_Link.nfc`
+- Twilight_Princess / Wolf_Link  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Twilight_Princess/Wolf_Link.nfc`
+- Twilight_Princess / Wolf_Link_20_Heart  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Twilight_Princess/Wolf_Link_20_Heart.nfc`
+- Twilight_Princess / Wolf_Link_MAX_LEVEL  `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Twilight_Princess/Wolf_Link_MAX_LEVEL.nfc`
+
+## Mario_Sports_Superstars (90)
+- Baseball / Baby_Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Baby_Luigi.nfc`
+- Baseball / Baby_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Baby_Mario.nfc`
+- Baseball / Birdo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Birdo.nfc`
+- Baseball / Boo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Boo.nfc`
+- Baseball / Bowser  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Bowser.nfc`
+- Baseball / Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Bowser_Jr.nfc`
+- Baseball / Daisy  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Daisy.nfc`
+- Baseball / Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Diddy_Kong.nfc`
+- Baseball / Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Donkey_Kong.nfc`
+- Baseball / Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Luigi.nfc`
+- Baseball / Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Mario.nfc`
+- Baseball / Metal_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Metal_Mario.nfc`
+- Baseball / Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Peach.nfc`
+- Baseball / Pink_Gold_Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Pink_Gold_Peach.nfc`
+- Baseball / Rosalina  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Rosalina.nfc`
+- Baseball / Waluigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Waluigi.nfc`
+- Baseball / Wario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Wario.nfc`
+- Baseball / Yoshi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Baseball/Yoshi.nfc`
+- Golf / Baby_Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Baby_Luigi.nfc`
+- Golf / Baby_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Baby_Mario.nfc`
+- Golf / Birdo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Birdo.nfc`
+- Golf / Boo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Boo.nfc`
+- Golf / Bowser  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Bowser.nfc`
+- Golf / Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Bowser_Jr.nfc`
+- Golf / Daisy  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Daisy.nfc`
+- Golf / Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Diddy_Kong.nfc`
+- Golf / Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Donkey_Kong.nfc`
+- Golf / Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Luigi.nfc`
+- Golf / Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Mario.nfc`
+- Golf / Metal_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Metal_Mario.nfc`
+- Golf / Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Peach.nfc`
+- Golf / Pink_Gold_Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Pink_Gold_Peach.nfc`
+- Golf / Rosalina  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Rosalina.nfc`
+- Golf / Waluigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Waluigi.nfc`
+- Golf / Wario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Wario.nfc`
+- Golf / Yoshi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Golf/Yoshi.nfc`
+- Horse_Racing / Baby_Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Baby_Luigi.nfc`
+- Horse_Racing / Baby_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Baby_Mario.nfc`
+- Horse_Racing / Birdo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Birdo.nfc`
+- Horse_Racing / Boo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Boo.nfc`
+- Horse_Racing / Bowser  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Bowser.nfc`
+- Horse_Racing / Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Bowser_Jr.nfc`
+- Horse_Racing / Daisy  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Daisy.nfc`
+- Horse_Racing / Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Diddy_Kong.nfc`
+- Horse_Racing / Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Donkey_Kong.nfc`
+- Horse_Racing / Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Luigi.nfc`
+- Horse_Racing / Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Mario.nfc`
+- Horse_Racing / Metal_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Metal_Mario.nfc`
+- Horse_Racing / Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Peach.nfc`
+- Horse_Racing / Pink_Gold_Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Pink_Gold_Peach.nfc`
+- Horse_Racing / Rosalina  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Rosalina.nfc`
+- Horse_Racing / Waluigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Waluigi.nfc`
+- Horse_Racing / Wario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Wario.nfc`
+- Horse_Racing / Yoshi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Horse_Racing/Yoshi.nfc`
+- Soccer / Baby_Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Baby_Luigi.nfc`
+- Soccer / Baby_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Baby_Mario.nfc`
+- Soccer / Birdo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Birdo.nfc`
+- Soccer / Boo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Boo.nfc`
+- Soccer / Bowser  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Bowser.nfc`
+- Soccer / Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Bowser_Jr.nfc`
+- Soccer / Daisy  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Daisy.nfc`
+- Soccer / Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Diddy_Kong.nfc`
+- Soccer / Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Donkey_Kong.nfc`
+- Soccer / Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Luigi.nfc`
+- Soccer / Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Mario.nfc`
+- Soccer / Metal_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Metal_Mario.nfc`
+- Soccer / Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Peach.nfc`
+- Soccer / Pink_Gold_Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Pink_Gold_Peach.nfc`
+- Soccer / Rosalina  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Rosalina.nfc`
+- Soccer / Waluigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Waluigi.nfc`
+- Soccer / Wario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Wario.nfc`
+- Soccer / Yoshi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Soccer/Yoshi.nfc`
+- Tennis / Baby_Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Baby_Luigi.nfc`
+- Tennis / Baby_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Baby_Mario.nfc`
+- Tennis / Birdo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Birdo.nfc`
+- Tennis / Boo  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Boo.nfc`
+- Tennis / Bowser  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Bowser.nfc`
+- Tennis / Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Bowser_Jr.nfc`
+- Tennis / Daisy  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Daisy.nfc`
+- Tennis / Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Diddy_Kong.nfc`
+- Tennis / Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Donkey_Kong.nfc`
+- Tennis / Luigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Luigi.nfc`
+- Tennis / Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Mario.nfc`
+- Tennis / Metal_Mario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Metal_Mario.nfc`
+- Tennis / Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Peach.nfc`
+- Tennis / Pink_Gold_Peach  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Pink_Gold_Peach.nfc`
+- Tennis / Rosalina  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Rosalina.nfc`
+- Tennis / Waluigi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Waluigi.nfc`
+- Tennis / Wario  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Wario.nfc`
+- Tennis / Yoshi  `/ext/nfc/Amiibo/By_Game/Mario_Sports_Superstars/Tennis/Yoshi.nfc`
+
+## Mega_Man_Amiibo (1)
+- Mega_Man  `/ext/nfc/Amiibo/By_Game/Mega_Man_Amiibo/Mega_Man.nfc`
+
+## Metroid (8)
+- Metroid_Dread / DREAD_E_M_M_I  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Dread/DREAD_E_M_M_I.nfc`
+- Metroid_Dread / DREAD_Samus  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Dread/DREAD_Samus.nfc`
+- Metroid_Dread / EMMI  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Dread/EMMI.nfc`
+- Metroid_Dread / Samus  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Dread/Samus.nfc`
+- Metroid_Prime_4 / Samus_and_Vi_O_La  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Prime_4/Samus_and_Vi_O_La.nfc`
+- Metroid_Prime_4 / Sylux  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Prime_4/Sylux.nfc`
+- Metroid_Samus_Returns / Metroid  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Samus_Returns/Metroid.nfc`
+- Metroid_Samus_Returns / Samus_Aran  `/ext/nfc/Amiibo/By_Game/Metroid/Metroid_Samus_Returns/Samus_Aran.nfc`
+
+## Monster_Hunter (22)
+- MH_Rise / Magnamalo  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Magnamalo.nfc`
+- MH_Rise / Malzeno  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Malzeno.nfc`
+- MH_Rise / Palamute  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Palamute.nfc`
+- MH_Rise / Palamute_Canyne  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Palamute_Canyne.nfc`
+- MH_Rise / Palico  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Palico.nfc`
+- MH_Rise / Palico_Felyne_Malzeno  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Rise/Palico_Felyne_Malzeno.nfc`
+- MH_Stories / Barioth_and_Ayuria  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/Barioth_and_Ayuria.nfc`
+- MH_Stories / Nabiru  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/Nabiru.nfc`
+- MH_Stories / One_Eyed_Rathalos_and_Rider_Female  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/One_Eyed_Rathalos_and_Rider_Female.nfc`
+- MH_Stories / One_Eyed_Rathalos_and_Rider_Male  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/One_Eyed_Rathalos_and_Rider_Male.nfc`
+- MH_Stories / OneEyed_Rider_Female  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/OneEyed_Rider_Female.nfc`
+- MH_Stories / OneEyed_Rider_Male  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/OneEyed_Rider_Male.nfc`
+- MH_Stories / Qurupeco_and_Dan  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/Qurupeco_and_Dan.nfc`
+- MH_Stories / Rathian_and_Cheval  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories/Rathian_and_Cheval.nfc`
+- MH_Stories_2 / Ena  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_2/Ena.nfc`
+- MH_Stories_2 / Razewing_Ratha  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_2/Razewing_Ratha.nfc`
+- MH_Stories_2 / Tsukino  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_2/Tsukino.nfc`
+- MH_Stories_3 / Ratha  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_3/Ratha.nfc`
+- MH_Stories_3 / Ratha_V  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_3/Ratha_V.nfc`
+- MH_Stories_3 / Rudy  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MH_Stories_3/Rudy.nfc`
+- MHR_Sunbreak / Palamute_Canyne_Malzeno_X  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MHR_Sunbreak/Palamute_Canyne_Malzeno_X.nfc`
+- MHR_Sunbreak / Palico_Felyne_Malzeno_X  `/ext/nfc/Amiibo/By_Game/Monster_Hunter/MHR_Sunbreak/Palico_Felyne_Malzeno_X.nfc`
+
+## My_Mario_Amiibo (4)
+- Tsumiki_Luigi  `/ext/nfc/Amiibo/By_Game/My_Mario_Amiibo/Tsumiki_Luigi.nfc`
+- Tsumiki_Mario  `/ext/nfc/Amiibo/By_Game/My_Mario_Amiibo/Tsumiki_Mario.nfc`
+- Tsumiki_Peach  `/ext/nfc/Amiibo/By_Game/My_Mario_Amiibo/Tsumiki_Peach.nfc`
+- Tsumiki_Yoshi  `/ext/nfc/Amiibo/By_Game/My_Mario_Amiibo/Tsumiki_Yoshi.nfc`
+
+## Other (8)
+- Captain_Falcon  `/ext/nfc/Amiibo/By_Game/Other/Captain_Falcon.nfc`
+- Chibi_Robo  `/ext/nfc/Amiibo/By_Game/Other/Chibi_Robo.nfc`
+- Fox  `/ext/nfc/Amiibo/By_Game/Other/Fox.nfc`
+- PAC_MAN  `/ext/nfc/Amiibo/By_Game/Other/PAC_MAN.nfc`
+- Pikmin  `/ext/nfc/Amiibo/By_Game/Other/Pikmin.nfc`
+- Qbby  `/ext/nfc/Amiibo/By_Game/Other/Qbby.nfc`
+- Shovel_Knight  `/ext/nfc/Amiibo/By_Game/Other/Shovel_Knight.nfc`
+- Sonic  `/ext/nfc/Amiibo/By_Game/Other/Sonic.nfc`
+
+## Pikmin_Amiibo (1)
+- Pikmin  `/ext/nfc/Amiibo/By_Game/Pikmin_Amiibo/Pikmin.nfc`
+
+## Pokken_Tournament (1)
+- Shadow_Mewtwo  `/ext/nfc/Amiibo/By_Game/Pokken_Tournament/Shadow_Mewtwo.nfc`
+
+## Power_Pros_Amiibo (12)
+- 1_Pawapuro  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/1_Pawapuro.nfc`
+- 2_Ikari  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/2_Ikari.nfc`
+- 3_Yabe  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/3_Yabe.nfc`
+- 4_Hayakawa  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/4_Hayakawa.nfc`
+- 5_Ganda  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/5_Ganda.nfc`
+- 6_Daijobu  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/6_Daijobu.nfc`
+- Daijobu  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Daijobu.nfc`
+- Ganda  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Ganda.nfc`
+- Hayakawa  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Hayakawa.nfc`
+- Ikari  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Ikari.nfc`
+- Pawapuro  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Pawapuro.nfc`
+- Yabe  `/ext/nfc/Amiibo/By_Game/Power_Pros_Amiibo/Yabe.nfc`
+
+## PowerUpBands (17)
+- Daisy  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Daisy.nfc`
+- Daisy_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Daisy_Power_Up_Band.nfc`
+- Diddy_Kong_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Diddy_Kong_Power_Up_Band.nfc`
+- Donkey_Kong_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Donkey_Kong_Power_Up_Band.nfc`
+- Gold_Mario  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Gold_Mario.nfc`
+- Gold_Mario_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Gold_Mario_Power_Up_Band.nfc`
+- Invicible_Mario_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Invicible_Mario_Power_Up_Band.nfc`
+- Luigi  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Luigi.nfc`
+- Luigi_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Luigi_Power_Up_Band.nfc`
+- Mario  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Mario.nfc`
+- Mario_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Mario_Power_Up_Band.nfc`
+- Peach  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Peach.nfc`
+- Peach_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Peach_Power_Up_Band.nfc`
+- Toad  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Toad.nfc`
+- Toad_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Toad_Power_Up_Band.nfc`
+- Yoshi  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Yoshi.nfc`
+- Yoshi_Power_Up_Band  `/ext/nfc/Amiibo/By_Game/PowerUpBands/Yoshi_Power_Up_Band.nfc`
+
+## Pragmata_Amiibo (1)
+- Diana  `/ext/nfc/Amiibo/By_Game/Pragmata_Amiibo/Diana.nfc`
+
+## Resident_Evil_Amiibo (2)
+- Grace_Ashcroft  `/ext/nfc/Amiibo/By_Game/Resident_Evil_Amiibo/Grace_Ashcroft.nfc`
+- Leon_S_Kennedy  `/ext/nfc/Amiibo/By_Game/Resident_Evil_Amiibo/Leon_S_Kennedy.nfc`
+
+## Shovel_Knight_Amiibo (5)
+- King_Knight  `/ext/nfc/Amiibo/By_Game/Shovel_Knight_Amiibo/King_Knight.nfc`
+- Plague_Knight  `/ext/nfc/Amiibo/By_Game/Shovel_Knight_Amiibo/Plague_Knight.nfc`
+- Shovel_Knight  `/ext/nfc/Amiibo/By_Game/Shovel_Knight_Amiibo/Shovel_Knight.nfc`
+- Shovel_Knight_Gold  `/ext/nfc/Amiibo/By_Game/Shovel_Knight_Amiibo/Shovel_Knight_Gold.nfc`
+- Specter_Knight  `/ext/nfc/Amiibo/By_Game/Shovel_Knight_Amiibo/Specter_Knight.nfc`
+
+## Skylanders (8)
+- Bowser_Superchargers  `/ext/nfc/Amiibo/By_Game/Skylanders/Bowser_Superchargers.nfc`
+- Dark_Bowser  `/ext/nfc/Amiibo/By_Game/Skylanders/Dark_Bowser.nfc`
+- Dark_Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Skylanders/Dark_Donkey_Kong.nfc`
+- Dark_Hammer_Slam_Bowser  `/ext/nfc/Amiibo/By_Game/Skylanders/Dark_Hammer_Slam_Bowser.nfc`
+- Dark_Turbo_Charge_Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Skylanders/Dark_Turbo_Charge_Donkey_Kong.nfc`
+- DK_Superchargers  `/ext/nfc/Amiibo/By_Game/Skylanders/DK_Superchargers.nfc`
+- Hammer_Slam_Bowser  `/ext/nfc/Amiibo/By_Game/Skylanders/Hammer_Slam_Bowser.nfc`
+- Turbo_Charge_Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Skylanders/Turbo_Charge_Donkey_Kong.nfc`
+
+## Splatoon (33)
+- Big_Man  `/ext/nfc/Amiibo/By_Game/Splatoon/Big_Man.nfc`
+- Big_Man_Raiders  `/ext/nfc/Amiibo/By_Game/Splatoon/Big_Man_Raiders.nfc`
+- Callie  `/ext/nfc/Amiibo/By_Game/Splatoon/Callie.nfc`
+- Callie_Alterna  `/ext/nfc/Amiibo/By_Game/Splatoon/Callie_Alterna.nfc`
+- Frye  `/ext/nfc/Amiibo/By_Game/Splatoon/Frye.nfc`
+- Frye_Raiders  `/ext/nfc/Amiibo/By_Game/Splatoon/Frye_Raiders.nfc`
+- Inkling_Boy  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Boy.nfc`
+- Inkling_Boy_Green  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Boy_Green.nfc`
+- Inkling_Boy_Neon_Green  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Boy_Neon_Green.nfc`
+- Inkling_Boy_Purple  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Boy_Purple.nfc`
+- Inkling_Girl  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Girl.nfc`
+- Inkling_Girl_Green  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Girl_Green.nfc`
+- Inkling_Girl_Lime_Green  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Girl_Lime_Green.nfc`
+- Inkling_Girl_Neon_Pink  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Girl_Neon_Pink.nfc`
+- Inkling_Girl_Pink  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Girl_Pink.nfc`
+- Inkling_Squid  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Squid.nfc`
+- Inkling_Squid_Neon_Purple  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Squid_Neon_Purple.nfc`
+- Inkling_Squid_Orange  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Squid_Orange.nfc`
+- Inkling_Squid_Purple  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Squid_Purple.nfc`
+- Inkling_Yellow  `/ext/nfc/Amiibo/By_Game/Splatoon/Inkling_Yellow.nfc`
+- Marie  `/ext/nfc/Amiibo/By_Game/Splatoon/Marie.nfc`
+- Marie_Alterna  `/ext/nfc/Amiibo/By_Game/Splatoon/Marie_Alterna.nfc`
+- Marina  `/ext/nfc/Amiibo/By_Game/Splatoon/Marina.nfc`
+- Marina_Side_Order  `/ext/nfc/Amiibo/By_Game/Splatoon/Marina_Side_Order.nfc`
+- Octoling_Blue  `/ext/nfc/Amiibo/By_Game/Splatoon/Octoling_Blue.nfc`
+- Octoling_Boy  `/ext/nfc/Amiibo/By_Game/Splatoon/Octoling_Boy.nfc`
+- Octoling_Girl  `/ext/nfc/Amiibo/By_Game/Splatoon/Octoling_Girl.nfc`
+- Octoling_Octopus  `/ext/nfc/Amiibo/By_Game/Splatoon/Octoling_Octopus.nfc`
+- Pearl  `/ext/nfc/Amiibo/By_Game/Splatoon/Pearl.nfc`
+- Pearl_Side_Order  `/ext/nfc/Amiibo/By_Game/Splatoon/Pearl_Side_Order.nfc`
+- Shiver  `/ext/nfc/Amiibo/By_Game/Splatoon/Shiver.nfc`
+- Shiver_Raiders  `/ext/nfc/Amiibo/By_Game/Splatoon/Shiver_Raiders.nfc`
+- Smallfry  `/ext/nfc/Amiibo/By_Game/Splatoon/Smallfry.nfc`
+
+## Street_Fighter_Amiibo (63)
+- Jamie  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Jamie.nfc`
+- Kimberly  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Kimberly.nfc`
+- Luke  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Luke.nfc`
+- Cards / 01_Luke  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/01_Luke.nfc`
+- Cards / 02_Jamie  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/02_Jamie.nfc`
+- Cards / 03_Manon  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/03_Manon.nfc`
+- Cards / 04_Kimberly  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/04_Kimberly.nfc`
+- Cards / 05_Marisa  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/05_Marisa.nfc`
+- Cards / 06_Lily  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/06_Lily.nfc`
+- Cards / 07_JP  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/07_JP.nfc`
+- Cards / 08_Juri  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/08_Juri.nfc`
+- Cards / 09_Dee_Jay  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/09_Dee_Jay.nfc`
+- Cards / 10_Cammy  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/10_Cammy.nfc`
+- Cards / 11_Ryu  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/11_Ryu.nfc`
+- Cards / 12_E_Honda  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/12_E_Honda.nfc`
+- Cards / 13_Blanka  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/13_Blanka.nfc`
+- Cards / 14_Guile  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/14_Guile.nfc`
+- Cards / 15_Ken  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/15_Ken.nfc`
+- Cards / 16_Chun_Li  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/16_Chun_Li.nfc`
+- Cards / 17_Zangief  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/17_Zangief.nfc`
+- Cards / 18_Dhalsim  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/18_Dhalsim.nfc`
+- Cards / 19_Rashid  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/19_Rashid.nfc`
+- Cards / 20_A_K_I  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/20_A_K_I.nfc`
+- Cards / 21_ED  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/21_ED.nfc`
+- Cards / 22_Akuma  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/22_Akuma.nfc`
+- Cards / 23_M_Bison  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/23_M_Bison.nfc`
+- Cards / 24_Terry  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/24_Terry.nfc`
+- Cards / 25_Mai  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/25_Mai.nfc`
+- Cards / 26_Elena  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/26_Elena.nfc`
+- Cards / 27_Sagat  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/27_Sagat.nfc`
+- Cards / 28_C_Viper  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/28_C_Viper.nfc`
+- Cards / 29_Alex  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/29_Alex.nfc`
+- Cards / 30_Ingrid  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/30_Ingrid.nfc`
+- Cards / 31_Luke  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/31_Luke.nfc`
+- Cards / 32_Jamie  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/32_Jamie.nfc`
+- Cards / 33_Manon  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/33_Manon.nfc`
+- Cards / 34_Kimberly  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/34_Kimberly.nfc`
+- Cards / 35_Marisa  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/35_Marisa.nfc`
+- Cards / 36_Lily  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/36_Lily.nfc`
+- Cards / 37_JP  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/37_JP.nfc`
+- Cards / 38_Juri  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/38_Juri.nfc`
+- Cards / 39_Dee_Jay  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/39_Dee_Jay.nfc`
+- Cards / 40_Cammy  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/40_Cammy.nfc`
+- Cards / 41_Ryu  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/41_Ryu.nfc`
+- Cards / 42_E_Honda  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/42_E_Honda.nfc`
+- Cards / 43_Blanka  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/43_Blanka.nfc`
+- Cards / 44_Guile  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/44_Guile.nfc`
+- Cards / 45_Ken  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/45_Ken.nfc`
+- Cards / 46_Chun_Li  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/46_Chun_Li.nfc`
+- Cards / 47_Zangief  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/47_Zangief.nfc`
+- Cards / 48_Dhalsim  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/48_Dhalsim.nfc`
+- Cards / 49_Rashid  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/49_Rashid.nfc`
+- Cards / 50_A_K_I  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/50_A_K_I.nfc`
+- Cards / 51_Ed  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/51_Ed.nfc`
+- Cards / 52_Akuma  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/52_Akuma.nfc`
+- Cards / 53_M_Bison  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/53_M_Bison.nfc`
+- Cards / 54_Terry  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/54_Terry.nfc`
+- Cards / 55_Mai  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/55_Mai.nfc`
+- Cards / 56_Elena  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/56_Elena.nfc`
+- Cards / 57_Sagat  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/57_Sagat.nfc`
+- Cards / 58_C_Viper  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/58_C_Viper.nfc`
+- Cards / 59_Alex  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/59_Alex.nfc`
+- Cards / 60_Ingrid  `/ext/nfc/Amiibo/By_Game/Street_Fighter_Amiibo/Cards/60_Ingrid.nfc`
+
+## Super_Mario (29)
+- Boo  `/ext/nfc/Amiibo/By_Game/Super_Mario/Boo.nfc`
+- Bowser  `/ext/nfc/Amiibo/By_Game/Super_Mario/Bowser.nfc`
+- Bowser_Wedding  `/ext/nfc/Amiibo/By_Game/Super_Mario/Bowser_Wedding.nfc`
+- Captain_Toad_and_Talking_Flower  `/ext/nfc/Amiibo/By_Game/Super_Mario/Captain_Toad_and_Talking_Flower.nfc`
+- Cat_Mario  `/ext/nfc/Amiibo/By_Game/Super_Mario/Cat_Mario.nfc`
+- Cat_Peach  `/ext/nfc/Amiibo/By_Game/Super_Mario/Cat_Peach.nfc`
+- Daisy  `/ext/nfc/Amiibo/By_Game/Super_Mario/Daisy.nfc`
+- Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Super_Mario/Diddy_Kong.nfc`
+- Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Super_Mario/Donkey_Kong.nfc`
+- Elephant_Mario  `/ext/nfc/Amiibo/By_Game/Super_Mario/Elephant_Mario.nfc`
+- Goomba  `/ext/nfc/Amiibo/By_Game/Super_Mario/Goomba.nfc`
+- Koopa_Troopa  `/ext/nfc/Amiibo/By_Game/Super_Mario/Koopa_Troopa.nfc`
+- Luigi  `/ext/nfc/Amiibo/By_Game/Super_Mario/Luigi.nfc`
+- Mario  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario.nfc`
+- Mario_and_Luma  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_and_Luma.nfc`
+- Mario_Classic_Colors_Anniversary  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_Classic_Colors_Anniversary.nfc`
+- Mario_Gold_Edition  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_Gold_Edition.nfc`
+- Mario_Modern_Colors_Anniversary  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_Modern_Colors_Anniversary.nfc`
+- Mario_Silver_Edition  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_Silver_Edition.nfc`
+- Mario_Wedding  `/ext/nfc/Amiibo/By_Game/Super_Mario/Mario_Wedding.nfc`
+- Peach  `/ext/nfc/Amiibo/By_Game/Super_Mario/Peach.nfc`
+- Peach_Wedding  `/ext/nfc/Amiibo/By_Game/Super_Mario/Peach_Wedding.nfc`
+- Poplin_and_Prince_Florian  `/ext/nfc/Amiibo/By_Game/Super_Mario/Poplin_and_Prince_Florian.nfc`
+- Rosalina  `/ext/nfc/Amiibo/By_Game/Super_Mario/Rosalina.nfc`
+- Rosalina_and_Lumas  `/ext/nfc/Amiibo/By_Game/Super_Mario/Rosalina_and_Lumas.nfc`
+- Toad  `/ext/nfc/Amiibo/By_Game/Super_Mario/Toad.nfc`
+- Waluigi  `/ext/nfc/Amiibo/By_Game/Super_Mario/Waluigi.nfc`
+- Wario  `/ext/nfc/Amiibo/By_Game/Super_Mario/Wario.nfc`
+- Yoshi  `/ext/nfc/Amiibo/By_Game/Super_Mario/Yoshi.nfc`
+
+## Super_Mario_30th (2)
+- 30th_Mario_Classic  `/ext/nfc/Amiibo/By_Game/Super_Mario_30th/30th_Mario_Classic.nfc`
+- 30th_Mario_Modern  `/ext/nfc/Amiibo/By_Game/Super_Mario_30th/30th_Mario_Modern.nfc`
+
+## Super_Mario_Cereal (1)
+- SuperMarioCereal  `/ext/nfc/Amiibo/By_Game/Super_Mario_Cereal/SuperMarioCereal.nfc`
+
+## Super_Smash_Bros (97)
+- Alex  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Alex.nfc`
+- Banjo_Kazooie  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Banjo_Kazooie.nfc`
+- Bayonetta_Player_1  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Bayonetta_Player_1.nfc`
+- Bayonetta_Player_2  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Bayonetta_Player_2.nfc`
+- Bowser  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Bowser.nfc`
+- Bowser_Jr  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Bowser_Jr.nfc`
+- Byleth  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Byleth.nfc`
+- Captain_Falcon  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Captain_Falcon.nfc`
+- Charizard  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Charizard.nfc`
+- Chrom  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Chrom.nfc`
+- Cloud_Player_1  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Cloud_Player_1.nfc`
+- Cloud_Player_2  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Cloud_Player_2.nfc`
+- Corrin_Player_1  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Corrin_Player_1.nfc`
+- Corrin_Player_2  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Corrin_Player_2.nfc`
+- Daisy  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Daisy.nfc`
+- Dark_Pit  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Dark_Pit.nfc`
+- Dark_Samus  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Dark_Samus.nfc`
+- Diddy_Kong  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Diddy_Kong.nfc`
+- Donkey_Kong  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Donkey_Kong.nfc`
+- Dr_Mario  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Dr_Mario.nfc`
+- Duck_Hunt  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Duck_Hunt.nfc`
+- Falco  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Falco.nfc`
+- Fox  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Fox.nfc`
+- Ganondorf  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ganondorf.nfc`
+- Greninja  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Greninja.nfc`
+- Hero  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Hero.nfc`
+- Ice_Climbers  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ice_Climbers.nfc`
+- Ike  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ike.nfc`
+- Incineroar  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Incineroar.nfc`
+- Inkling  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Inkling.nfc`
+- Inkling_Girl  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Inkling_Girl.nfc`
+- Isabelle  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Isabelle.nfc`
+- Ivysaur  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ivysaur.nfc`
+- Jigglypuff  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Jigglypuff.nfc`
+- Joker  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Joker.nfc`
+- Kazuya  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Kazuya.nfc`
+- Ken  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ken.nfc`
+- King_Dedede  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/King_Dedede.nfc`
+- King_K_Rool  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/King_K_Rool.nfc`
+- Kirby  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Kirby.nfc`
+- Link  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Link.nfc`
+- Little_Mac  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Little_Mac.nfc`
+- Lucario  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Lucario.nfc`
+- Lucas  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Lucas.nfc`
+- Lucina  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Lucina.nfc`
+- Luigi  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Luigi.nfc`
+- Mario  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mario.nfc`
+- Marth  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Marth.nfc`
+- Mega_Man  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mega_Man.nfc`
+- Mega_Man_Golden  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mega_Man_Golden.nfc`
+- Meta_Knight  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Meta_Knight.nfc`
+- Mewtwo  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mewtwo.nfc`
+- Mii_Fighter  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mii_Fighter.nfc`
+- Mii_Gunner  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mii_Gunner.nfc`
+- Mii_Swordsman  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mii_Swordsman.nfc`
+- Min_Min  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Min_Min.nfc`
+- Mr_Game_Watch  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mr_Game_Watch.nfc`
+- Mythra  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Mythra.nfc`
+- Ness  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ness.nfc`
+- Olimar  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Olimar.nfc`
+- Pac_Man  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pac_Man.nfc`
+- Palutena  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Palutena.nfc`
+- Peach  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Peach.nfc`
+- Pichu  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pichu.nfc`
+- Pikachu  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pikachu.nfc`
+- Piranha_Plant  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Piranha_Plant.nfc`
+- Pit  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pit.nfc`
+- Pokemon_Trainer  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pokemon_Trainer.nfc`
+- Pyra  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Pyra.nfc`
+- Richter  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Richter.nfc`
+- Ridley  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ridley.nfc`
+- ROB_Famicom  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/ROB_Famicom.nfc`
+- ROB_NES  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/ROB_NES.nfc`
+- Robin  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Robin.nfc`
+- Rosalina_Luma  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Rosalina_Luma.nfc`
+- Roy  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Roy.nfc`
+- Ryu  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Ryu.nfc`
+- Samus  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Samus.nfc`
+- Sephiroth  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Sephiroth.nfc`
+- Sheik  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Sheik.nfc`
+- Shulk  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Shulk.nfc`
+- Simon  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Simon.nfc`
+- Snake  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Snake.nfc`
+- Sonic  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Sonic.nfc`
+- Sora  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Sora.nfc`
+- Squirtle  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Squirtle.nfc`
+- Steve  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Steve.nfc`
+- Terry  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Terry.nfc`
+- Toon_Link  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Toon_Link.nfc`
+- Villager  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Villager.nfc`
+- Wario  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Wario.nfc`
+- Wii_Fit_Trainer  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Wii_Fit_Trainer.nfc`
+- Wolf  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Wolf.nfc`
+- Yoshi  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Yoshi.nfc`
+- Young_Link  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Young_Link.nfc`
+- Zelda  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Zelda.nfc`
+- Zero_Suit_Samus  `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Zero_Suit_Samus.nfc`
+
+## XenoBlade_Chronicles (2)
+- Mio  `/ext/nfc/Amiibo/By_Game/XenoBlade_Chronicles/Mio.nfc`
+- Noah  `/ext/nfc/Amiibo/By_Game/XenoBlade_Chronicles/Noah.nfc`
+
+## Yoshis_Wooly_World (5)
+- Green_Yarn_Yoshi  `/ext/nfc/Amiibo/By_Game/Yoshis_Wooly_World/Green_Yarn_Yoshi.nfc`
+- LightBlue_Yarn_Yoshi  `/ext/nfc/Amiibo/By_Game/Yoshis_Wooly_World/LightBlue_Yarn_Yoshi.nfc`
+- Mega_Yarn_Yoshi  `/ext/nfc/Amiibo/By_Game/Yoshis_Wooly_World/Mega_Yarn_Yoshi.nfc`
+- Pink_Yarn_Yoshi  `/ext/nfc/Amiibo/By_Game/Yoshis_Wooly_World/Pink_Yarn_Yoshi.nfc`
+- Poochy  `/ext/nfc/Amiibo/By_Game/Yoshis_Wooly_World/Poochy.nfc`
+
+## Yu_Gi_Oh_Amiibo (7)
+- Asana_Mutsuba  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Asana_Mutsuba.nfc`
+- Gakuto_Sogetsu  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Gakuto_Sogetsu.nfc`
+- Nail_Saionji  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Nail_Saionji.nfc`
+- Roa_Kirishima  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Roa_Kirishima.nfc`
+- Romin_Kirishima  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Romin_Kirishima.nfc`
+- Tatsuhisa_Luke_Kamijo  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Tatsuhisa_Luke_Kamijo.nfc`
+- Yuga_Ohdo  `/ext/nfc/Amiibo/By_Game/Yu_Gi_Oh_Amiibo/Yuga_Ohdo.nfc`
+
+
