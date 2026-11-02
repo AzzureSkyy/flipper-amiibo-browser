@@ -3,7 +3,7 @@ Version: 2
 # Nfc device type can be UID, Mifare Ultralight, Bank card
 Device type: NTAG215
 # UID, ATQA and SAK are common for all formats
-UID: 04 63 6B 84 1A C2 48
+UID: 04 63 6B 1A C2 48 81
 ATQA: 44 00
 SAK: 00
 # Mifare Ultralight specific data
@@ -149,5 +149,5 @@ Page 129: 32 C3 29 CB
 Page 130: 01 00 0F BD
 Page 131: 00 00 00 04
 Page 132: 5F 00 00 00
-Page 133: 00 00 00 00
-Page 134: 00 00 00 00
+Page 133: D3 FC F8 16
+Page 134: 80 80 00 00
