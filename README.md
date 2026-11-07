@@ -6,7 +6,7 @@ A Flipper Zero app that browses amiibo `.nfc` files by game and emulates them.
 - `FlipperApp/amiibo_browser/` - app source (`amiibo_browser.c`, `application.fam`) and built `.fap` in `dist/`.
 - `Flipper_SD/` - ready-to-copy SD card layout:
   - `apps/NFC/amiibo_browser.fap`
-  - `nfc/Amiibo/By_Game/...` and `nfc/Amiibo/A-Z/...`
+	- `nfc/Amiibo/By_Game/...`
   - `amiibo_index.csv` / `amiibo_index.md` - library index (not needed on the device)
 
 ## Install
