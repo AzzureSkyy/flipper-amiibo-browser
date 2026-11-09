@@ -678,11 +678,11 @@
 - BOTW / Toon_Link `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Toon_Link.nfc`
 - BOTW / Urbosa `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Urbosa.nfc`
 - BOTW / Zelda `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Zelda.nfc`
-- BOTW / Zelda_Super_Smash_Bros `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Zelda_Super_Smash_Bros.nfc`
+- BOTW / Zelda_Super_Smash_Bros `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/BOTW/Zelda_(Smash_Bros).nfc`
 - Link_s_Awakening / Link `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Link_s_Awakening/Link.nfc`
 - Ocarina_of_Time / Ocarina_Of_Time_Link `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Ocarina_of_Time/Ocarina_Of_Time_Link.nfc`
 - Ocarina_of_Time / Sheik `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Ocarina_of_Time/Sheik.nfc`
-- Ocarina_of_Time / Young_Link `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Ocarina_of_Time/Young_Link.nfc`
+- Ocarina_of_Time / Young_Link `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Ocarina_of_Time/Young_Link_(Smash_Bros).nfc`
 - Skyward_Sword_HD / Zelda_and_Loftwing `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Skyward_Sword_HD/Zelda_and_Loftwing.nfc`
 - Tears_of_the_Kingdom / Ganondorf_TotK `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Ganondorf_TotK.nfc`
 - Tears_of_the_Kingdom / Gerudo_King `/ext/nfc/Amiibo/By_Game/Legend_of_Zelda/Tears_of_the_Kingdom/Gerudo_King.nfc`
@@ -1116,7 +1116,7 @@
 - Wii_Fit_Trainer `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Wii_Fit_Trainer.nfc`
 - Wolf `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Wolf.nfc`
 - Yoshi `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Yoshi.nfc`
-- Young_Link `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Young_Link.nfc`
+- Young_Link `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Young_Link_(Smash_Bros).nfc`
 - Zelda `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Zelda.nfc`
 - Zero_Suit_Samus `/ext/nfc/Amiibo/By_Game/Super_Smash_Bros/Zero_Suit_Samus.nfc`
 
