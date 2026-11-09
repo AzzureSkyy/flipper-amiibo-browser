@@ -154,12 +154,12 @@ static void start_emulation(App* app, const Entry* entry) {
 static void show_about(App* app) {
 	widget_reset(app->widget);
 	widget_add_string_element(
-		app->widget, 64, 4, AlignCenter, AlignTop, FontPrimary, "Amiibo Browser");
+		app->widget, 64, 3, AlignCenter, AlignTop, FontPrimary, "Amiibo Browser");
 	widget_add_string_element(
-		app->widget, 64, 18, AlignCenter, AlignTop, FontSecondary, "by AzureSky");
+		app->widget, 64, 16, AlignCenter, AlignTop, FontSecondary, "by AzureSky");
 	widget_add_string_multiline_element(
-		app->widget, 64, 32, AlignCenter, AlignTop, FontSecondary,
-		"amiibo is a trademark of Nintendo.\nNintendo characters and content are\n(c) Nintendo. All rights reserved.");
+		app->widget, 64, 30, AlignCenter, AlignTop, FontSecondary,
+		"Amiibo is a trademark of\nNintendo. Characters are\n(c) Nintendo. All rights\nreserved.");
 	app->current = ViewEmulate;
 	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
 }
