@@ -15,6 +15,7 @@
 #define MAX_ENTRIES     400
 #define MAX_NAME_LEN    64
 #define MAX_DEPTH       16
+#define ABOUT_INDEX     (UINT32_MAX - 1)
 
 typedef enum {
 	ViewMenu,
@@ -150,8 +151,26 @@ static void start_emulation(App* app, const Entry* entry) {
 	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
 }
 
+static void show_about(App* app) {
+	widget_reset(app->widget);
+	widget_add_string_element(
+		app->widget, 64, 4, AlignCenter, AlignTop, FontPrimary, "Amiibo Browser");
+	widget_add_string_element(
+		app->widget, 64, 18, AlignCenter, AlignTop, FontSecondary, "by AzureSky");
+	widget_add_string_multiline_element(
+		app->widget, 64, 32, AlignCenter, AlignTop, FontSecondary,
+		"amiibo is a trademark of Nintendo.\nNintendo characters and content are\n(c) Nintendo. All rights reserved.");
+	app->current = ViewEmulate;
+	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
+}
+
 static void submenu_callback(void* context, uint32_t index) {
 	App* app = context;
+	if(index == ABOUT_INDEX) {
+		app->selected = app->entry_count;
+		show_about(app);
+		return;
+	}
 	if(index >= app->entry_count) return;
 	app->selected = index;
 	Entry* entry = &app->entries[index];
@@ -173,8 +192,9 @@ static void build_menu(App* app) {
 	const char* p = furi_string_get_cstr(app->path);
 	const char* slash = strrchr(p, '/');
 	char header[MAX_NAME_LEN];
-	if(furi_string_cmp_str(app->path, ROOT_PATH) == 0) {
-		strlcpy(header, "Amiibo - Games (AzureSky)", sizeof(header));
+	bool at_root = furi_string_cmp_str(app->path, ROOT_PATH) == 0;
+	if(at_root) {
+		strlcpy(header, "Amiibo - Games", sizeof(header));
 	} else {
 		display_name(slash ? slash + 1 : p, header, sizeof(header), false);
 	}
@@ -189,6 +209,9 @@ static void build_menu(App* app) {
 		display_name(app->entries[i].name, name, sizeof(name), !app->entries[i].is_dir);
 		snprintf(label, sizeof(label), app->entries[i].is_dir ? "[%s]" : "%s", name);
 		submenu_add_item(app->submenu, label, i, submenu_callback, app);
+	}
+	if(at_root) {
+		submenu_add_item(app->submenu, "About", ABOUT_INDEX, submenu_callback, app);
 	}
 	submenu_set_selected_item(app->submenu, app->selected);
 
