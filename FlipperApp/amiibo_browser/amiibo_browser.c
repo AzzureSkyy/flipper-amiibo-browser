@@ -174,7 +174,7 @@ static void build_menu(App* app) {
 	const char* slash = strrchr(p, '/');
 	char header[MAX_NAME_LEN];
 	if(furi_string_cmp_str(app->path, ROOT_PATH) == 0) {
-		strlcpy(header, "Amiibo - Games", sizeof(header));
+		strlcpy(header, "Amiibo - Games (AzureSky)", sizeof(header));
 	} else {
 		display_name(slash ? slash + 1 : p, header, sizeof(header), false);
 	}

@@ -8,5 +8,6 @@ App(
 	fap_category="NFC",
 	fap_icon="amiibo_browser.png",
 	fap_version="1.0",
+	fap_author="AzureSky",
 	fap_description="Browse amiibo by game and emulate them",
 )
