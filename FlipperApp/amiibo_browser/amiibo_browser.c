@@ -20,6 +20,7 @@
 typedef enum {
 	ViewMenu,
 	ViewEmulate,
+	ViewAbout,
 } AppView;
 
 typedef struct {
@@ -32,6 +33,8 @@ typedef struct {
 	ViewDispatcher* dispatcher;
 	Submenu* submenu;
 	Widget* widget;
+	View* about_view;
+	int32_t about_scroll;
 	Storage* storage;
 	NotificationApp* notifications;
 
@@ -151,17 +154,63 @@ static void start_emulation(App* app, const Entry* entry) {
 	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
 }
 
+#define ABOUT_HEIGHT    92
+#define ABOUT_STEP      8
+
+static void draw_triforce(Canvas* c, int cx, int top) {
+	// Three solid triangles (side 10px) forming the Triforce, apex at (cx, top).
+	for(int r = 0; r < 6; r++) {
+		canvas_draw_line(c, cx - r, top + r, cx + r, top + r);
+		canvas_draw_line(c, cx - 6 - r, top + 6 + r, cx - 6 + r, top + 6 + r);
+		canvas_draw_line(c, cx + 6 - r, top + 6 + r, cx + 6 + r, top + 6 + r);
+	}
+}
+
+static void about_draw(Canvas* c, void* model) {
+	int32_t* scroll = model;
+	int y = -*scroll;
+	canvas_clear(c);
+	canvas_set_font(c, FontPrimary);
+	canvas_draw_str_aligned(c, 64, y + 3, AlignCenter, AlignTop, "Amiibo Browser");
+	canvas_set_font(c, FontSecondary);
+	canvas_draw_str_aligned(c, 64, y + 16, AlignCenter, AlignTop, "by AzureSky");
+	static const char* const lines[] = {
+		"Amiibo is a trademark of",
+		"Nintendo. Characters are",
+		"(c) Nintendo. All rights",
+		"reserved.",
+	};
+	for(size_t i = 0; i < sizeof(lines) / sizeof(lines[0]); i++) {
+		canvas_draw_str_aligned(c, 64, y + 30 + i * 10, AlignCenter, AlignTop, lines[i]);
+	}
+	draw_triforce(c, 64, y + 74);
+	// scrollbar
+	int track = 64 - 4;
+	int thumb = track * 64 / ABOUT_HEIGHT;
+	int pos = (track - thumb) * *scroll / (ABOUT_HEIGHT - 64);
+	canvas_draw_line(c, 126, 2, 126, 61);
+	canvas_draw_box(c, 125, 2 + pos, 3, thumb);
+}
+
+static bool about_input(InputEvent* e, void* context) {
+	App* app = context;
+	if(e->type != InputTypePress && e->type != InputTypeRepeat) return false;
+	if(e->key == InputKeyDown) {
+		if(app->about_scroll < ABOUT_HEIGHT - 64) app->about_scroll += ABOUT_STEP;
+	} else if(e->key == InputKeyUp) {
+		if(app->about_scroll > 0) app->about_scroll -= ABOUT_STEP;
+	} else {
+		return false;
+	}
+	with_view_model(app->about_view, int32_t * m, { *m = app->about_scroll; }, true);
+	return true;
+}
+
 static void show_about(App* app) {
-	widget_reset(app->widget);
-	widget_add_string_element(
-		app->widget, 64, 3, AlignCenter, AlignTop, FontPrimary, "Amiibo Browser");
-	widget_add_string_element(
-		app->widget, 64, 16, AlignCenter, AlignTop, FontSecondary, "by AzureSky");
-	widget_add_string_multiline_element(
-		app->widget, 64, 30, AlignCenter, AlignTop, FontSecondary,
-		"Amiibo is a trademark of\nNintendo. Characters are\n(c) Nintendo. All rights\nreserved.");
-	app->current = ViewEmulate;
-	view_dispatcher_switch_to_view(app->dispatcher, ViewEmulate);
+	app->about_scroll = 0;
+	with_view_model(app->about_view, int32_t * m, { *m = 0; }, true);
+	app->current = ViewAbout;
+	view_dispatcher_switch_to_view(app->dispatcher, ViewAbout);
 }
 
 static void submenu_callback(void* context, uint32_t index) {
@@ -226,6 +275,10 @@ static bool navigation_callback(void* context) {
 		build_menu(app);
 		return true;
 	}
+	if(app->current == ViewAbout) {
+		build_menu(app);
+		return true;
+	}
 	if(furi_string_cmp_str(app->path, ROOT_PATH) == 0) {
 		view_dispatcher_stop(app->dispatcher);
 		return true;
@@ -256,8 +309,14 @@ int32_t amiibo_browser_app(void* p) {
 
 	app->submenu = submenu_alloc();
 	app->widget = widget_alloc();
+	app->about_view = view_alloc();
+	view_allocate_model(app->about_view, ViewModelTypeLocking, sizeof(int32_t));
+	view_set_context(app->about_view, app);
+	view_set_draw_callback(app->about_view, about_draw);
+	view_set_input_callback(app->about_view, about_input);
 	view_dispatcher_add_view(app->dispatcher, ViewMenu, submenu_get_view(app->submenu));
 	view_dispatcher_add_view(app->dispatcher, ViewEmulate, widget_get_view(app->widget));
+	view_dispatcher_add_view(app->dispatcher, ViewAbout, app->about_view);
 	view_dispatcher_attach_to_gui(app->dispatcher, app->gui, ViewDispatcherTypeFullscreen);
 
 	build_menu(app);
@@ -266,8 +325,10 @@ int32_t amiibo_browser_app(void* p) {
 	stop_emulation(app);
 	view_dispatcher_remove_view(app->dispatcher, ViewMenu);
 	view_dispatcher_remove_view(app->dispatcher, ViewEmulate);
+	view_dispatcher_remove_view(app->dispatcher, ViewAbout);
 	submenu_free(app->submenu);
 	widget_free(app->widget);
+	view_free(app->about_view);
 	view_dispatcher_free(app->dispatcher);
 	nfc_device_free(app->device);
 	nfc_free(app->nfc);
