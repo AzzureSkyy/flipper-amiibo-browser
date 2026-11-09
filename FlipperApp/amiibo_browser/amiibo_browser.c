@@ -14,6 +14,7 @@
 #define ROOT_PATH       EXT_PATH("nfc/Amiibo/By_Game")
 #define MAX_ENTRIES     400
 #define MAX_NAME_LEN    64
+#define MAX_DEPTH       16
 
 typedef enum {
 	ViewMenu,
@@ -37,6 +38,8 @@ typedef struct {
 	Entry* entries;
 	size_t entry_count;
 	uint32_t selected;
+	uint32_t selected_stack[MAX_DEPTH];
+	size_t depth;
 
 	Nfc* nfc;
 	NfcDevice* device;
@@ -153,6 +156,8 @@ static void submenu_callback(void* context, uint32_t index) {
 	app->selected = index;
 	Entry* entry = &app->entries[index];
 	if(entry->is_dir) {
+		if(app->depth >= MAX_DEPTH) return;
+		app->selected_stack[app->depth++] = index;
 		furi_string_cat_printf(app->path, "/%s", entry->name);
 		app->selected = 0;
 		build_menu(app);
@@ -204,7 +209,7 @@ static bool navigation_callback(void* context) {
 	}
 	size_t pos = furi_string_search_rchar(app->path, '/');
 	if(pos != FURI_STRING_FAILURE) furi_string_left(app->path, pos);
-	app->selected = 0;
+	app->selected = app->depth > 0 ? app->selected_stack[--app->depth] : 0;
 	build_menu(app);
 	return true;
 }
