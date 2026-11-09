@@ -1,9 +1,9 @@
 # Amiibo Browser
 
-Browse amiibo `.nfc` files by game and emulate them on the Flipper Zero.
+Browse amiibo .nfc files by game and emulate them on the Flipper Zero.
 
 ## Usage
-- Put your amiibo dumps under `SD:/nfc/Amiibo/By_Game/<Game>/<Figure>.nfc`.
+- Put your amiibo dumps under SD:/nfc/Amiibo/By_Game/(Game)/(Figure).nfc.
 - Open **Apps > NFC > Amiibo Browser**, pick a game, then pick a figure.
 - Hold the Flipper to the console/reader while the emulation screen is shown.
 - **Back** stops emulation and returns to the list, remembering your position.
