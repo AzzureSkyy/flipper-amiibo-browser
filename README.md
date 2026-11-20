@@ -1,4 +1,8 @@
+<div align="center">
+
 ![amiibo](https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/Dev/aem-component-demo/logo-amiibo-glow)
+
+</div>
 
 # Flipper Amiibo Browser
 
