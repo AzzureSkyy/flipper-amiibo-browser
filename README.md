@@ -1,3 +1,6 @@
+
+
+
 # Flipper Amiibo Browser
 
 A Flipper Zero app that browses amiibo `.nfc` files by game and emulates them.
