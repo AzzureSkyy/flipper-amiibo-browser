@@ -8,9 +8,9 @@
 
 A Flipper Zero app that browses amiibo `.nfc` files by game and emulates them.
 Despite the supposed MIT license anyone does not have to right to sell this
-Say outside of nintendo direct use for intended purposes alone
+Say outside of Nintendo direct use for intended purposes alone
 this app should not be tzken and resold, and or distributed on any platform with permissions
-to do so, the app is licensed by Nintendo and not Mit granteing resall permissions.
+to do so, the app is licensed by Nintendo and not MIT granteing resall permissions.
 
 ## Contents
 - `FlipperApp/amiibo_browser/` - app source (`amiibo_browser.c`, `application.fam`) and built `.fap` in `dist/`.
