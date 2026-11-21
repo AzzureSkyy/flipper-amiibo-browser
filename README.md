@@ -11,6 +11,9 @@ Despite the supposed MIT license anyone does not have to right to sell this
 Say outside of Nintendo direct use for intended purposes alone,
 this app should not be taken and resold, and or distributed on any platform with permissions
 to do so, the app is licensed by Nintendo and not MIT,granting resall permissions.
+Mit license will be removed eventually when I get around too it until then the official 
+GitHub Readme is a required read of any software informations above and beyond vauge and misdirective 
+licensing that doesnt have the authority to grant resale of a Nintendo Centric product.
 
 ## Contents
 - `FlipperApp/amiibo_browser/` - app source (`amiibo_browser.c`, `application.fam`) and built `.fap` in `dist/`.
