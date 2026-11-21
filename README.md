@@ -18,7 +18,7 @@ Before any official implementation of an official nature the app would require w
 for any truly licensed Ninendo device, the flipper is the only item that this function to a minimum standard on
 and all flipper applications are free to use,for people who own a flipper and do not have capacity for physical Amiibos
 only Nintendo reserves the right to sell digital Amiibos in the future on a choosen platform ad NFC to be used as a Nintendo
-Product. However this application vialoates no sales rights as it boasts the use and possible purchase of real Amiibos
+Product. However this application Violates no sales rights as it boasts the use and possible purchase of real Amiibos
 and the sale of digitally licensed NFC by Nintendo if desired at a later date. 
 Nothing in the app is Nefarious or Anti Nintendo, and does not to my knowledge and the knowledge of my AI companion collect or misue any data,
 Further unofficial forks or approvals in other channels are not my responsibility and explicitly rely on the responsibility 
