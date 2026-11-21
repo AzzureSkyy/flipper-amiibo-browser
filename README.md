@@ -24,6 +24,7 @@ Nothing in the app is Nefarious or Anti Nintendo, and does not to my knowledge a
 Further unofficial forks or approvals in other channels are not my responsibility and explicitly rely on the responsibility 
 of the User but more importantly the methods and intentions of the person altering the app.
 
+Rights Reserved:Nintendo Corporation 
 ## Contents
 - `FlipperApp/amiibo_browser/` - app source (`amiibo_browser.c`, `application.fam`) and built `.fap` in `dist/`.
 - `Flipper_SD/` - ready-to-copy SD card layout:
